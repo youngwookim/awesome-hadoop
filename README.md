@@ -22,6 +22,10 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop.
 
 ## HBase
+**
+
+* [Apache HBase](http://hbase.apache.org) - Apache HBase
+* [Apache Phoenix](http://phoenix.apache.org/) - SQL skin over HBase
 
 ## SQL on Hadoop
 *SQL on Hadoop*
