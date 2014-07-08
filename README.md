@@ -80,6 +80,9 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/)
 * [HiBench](https://github.com/intel-hadoop/HiBench)
+* [Big-Bench](https://github.com/intel-hadoop/Big-Bench)
+* [hive-benchmarks](https://github.com/yhuai/hive-benchmarks)
+* [hive-testbench](https://github.com/cartershanklin/hive-testbench) - Testbench for experimenting with Apache Hive at any data scale.
 
 # Resources
 Various resources, such as books, websites and articles.
