@@ -25,7 +25,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 **
 
 * [Apache HBase](http://hbase.apache.org) - Apache HBase
-* [Apache Phoenix](http://phoenix.apache.org/) - SQL skin over HBase
+* [Apache Phoenix](http://phoenix.apache.org/) - A SQL skin over HBase
 
 ## SQL on Hadoop
 *SQL on Hadoop*
