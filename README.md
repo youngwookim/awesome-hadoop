@@ -32,7 +32,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 Various resources, such as books, websites and articles.
 
 ## Websites
-*Useful websites*
+*Useful websites and articles*
 
 * [Apache Hadoop](http://hadoop.apache.org/) - Apache Hadoop
 * [Hadoop 1.x vs 2](http://www.slideshare.net/RommelGarcia2/hadoop-1x-vs-2)
