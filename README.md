@@ -85,6 +85,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Bigtop](http://bigtop.apache.org/) - Packaging and tests of the Apache Hadoop ecosystem 
 * [Apache Ambari](http://ambari.apache.org/)
+* [Ganglia Monitoring System](http://ganglia.sourceforge.net/)
 
 ## Benchmark
 **
