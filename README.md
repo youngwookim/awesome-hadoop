@@ -10,6 +10,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [Data Ingestion and Integration](#data-ingestion-and-integration)
 	- [DSL](#dsl)
 	- [Libraries and Tools](#libraries-and-tools)
+	- [Realtime Data Processing](#realtime-data-processing)
 	- [Packaging, Provisioning and Monitoring](#packaging-provisioning-and-monitoring)
 	- [Monitoring](#monitoring)
 	- [Benchmark](#benchmark)
@@ -30,6 +31,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/)
 * [Apache Twill](http://twill.incubator.apache.org/)
 * [Apache Tez](http://tez.incubator.apache.org/)
+* [Apache Spark](http://spark.apache.org/)
 
 ## HBase
 **
@@ -56,15 +58,17 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Flume](http://flume.apache.org) - Apache Flume
 * [Apache Sqoop](http://sqoop.apache.org) - Apache Sqoop
-* [Flume MongoDB Sink](https://github.com/leonlee/flume-ng-mongodb-sink)
-* (https://github.com/btoddb/flume-ng-hornetq-channel)
-* (https://github.com/leonlee/flume-ng-msgpack-source)
-* (https://github.com/jcustenborder/flume-ng-rabbitmq)
-* [Flume UDP Source](https://github.com/whitepages/flume-udp-source)
-* [Stratio Ingestion](https://github.com/Stratio/stratio-ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
-* (https://github.com/relistan/flume-serializers)
-* (https://github.com/jrkinley/flume-interceptor-analytics)
-* [.Net FlumeNG Clients](https://github.com/marksl/DotNetFlumeNG.Clients)
+* [Apache Kafka](http://kafka.apache.org/) - Apache Kafka
+* Flume Plugins
+ * [Flume MongoDB Sink](https://github.com/leonlee/flume-ng-mongodb-sink)
+ * (https://github.com/btoddb/flume-ng-hornetq-channel)
+ * (https://github.com/leonlee/flume-ng-msgpack-source)
+ * (https://github.com/jcustenborder/flume-ng-rabbitmq)
+ * [Flume UDP Source](https://github.com/whitepages/flume-udp-source)
+ * [Stratio Ingestion](https://github.com/Stratio/stratio-ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
+ * (https://github.com/relistan/flume-serializers)
+ * (https://github.com/jrkinley/flume-interceptor-analytics)
+ * [.Net FlumeNG Clients](https://github.com/marksl/DotNetFlumeNG.Clients)
 
 ## DSL
 **
@@ -80,10 +84,15 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Libraries and Tools
 **
 
+* [Apache Crunch](http://crunch.apache.org)
 * [Kite Software Development Kit](http://kitesdk.org/) - A set of libraries, tools, examples, and documentation
 * [gohadoop](https://github.com/hortonworks/gohadoop) - Native go clients for Apache Hadoop YARN.
 * [HUE](http://gethue.com/)
 * [Zeppelin](http://zeppelin-project.org/)
+
+## Realtime Data Processing
+
+* [Apache Storm](https://storm.incubator.apache.org/)
 
 ## Packaging, Provisioning and Monitoring
 
