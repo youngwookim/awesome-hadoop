@@ -46,6 +46,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 **
 
 * [Apache Pig](http://pig.apache.org)
+* [Apache DataFu](http://datafu.incubator.apache.org/) - A collection of libraries for working with large-scale data in Hadoop
 
 ## Benchmark
 **
