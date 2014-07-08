@@ -7,7 +7,9 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [HBase](#hbase)
 	- [SQL on Hadoop](#sql-on-hadoop)
 	- [Workflow](#workflow)
-	- [Flume](#data-ingestion-and-integration)
+	- [Data Ingestion and Integration](#data-ingestion-and-integration)
+	- [DSL and Libraries](#dsl-and-libraries)
+	- [Benchmark](#benchmark)
 - [Resources](#resources)
 	- [Websites](#websites)
 	- [Books](#books)
@@ -39,6 +41,11 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Data Ingestion and Integration
 
 * [Apache Flume](http://flume.apache.org) - Apache Flume
+
+## DSL and Libraries
+**
+
+* [Apache Pig](http://pig.apache.org)
 
 ## Benchmark
 **
