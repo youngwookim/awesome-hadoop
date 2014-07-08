@@ -16,6 +16,10 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 *HDFS, MapReduce and YARN*
 
 * [Apache Hadoop](http://hadoop.apache.org/) - Apache Hadoop
+* [dumbo](https://github.com/klbostee/dumbo) - Python module that allows you to easily write and run Hadoop programs.
+* [hadoopy](https://github.com/bwhite/hadoopy)
+* [mrjob]([https://github.com/Yelp/mrjob/) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
+* [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop
 
 ## HBase
 
