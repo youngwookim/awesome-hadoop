@@ -26,6 +26,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [hdfs-du](https://github.com/twitter/hdfs-du)
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/)
+* [Apache Twill](http://twill.incubator.apache.org/)
+* [Apache Tez](http://tez.incubator.apache.org/)
 
 ## HBase
 **
@@ -74,6 +76,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Bigtop](http://bigtop.apache.org/) - Packaging and tests of the Apache Hadoop ecosystem 
 * [Kite Software Development Kit](http://kitesdk.org/) - A set of libraries, tools, examples, and documentation
+* [gohadoop](https://github.com/hortonworks/gohadoop) - Native go clients for Apache Hadoop YARN.
 
 ## Benchmark
 **
