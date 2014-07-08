@@ -70,7 +70,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Libraries and Tools
 **
 
-* [Kite Software Development Kit](http://kitesdk.org/)
+* [Apache Bigtop](http://bigtop.apache.org/) - Packaging and tests of the Apache Hadoop ecosystem 
+* [Kite Software Development Kit](http://kitesdk.org/) - A set of libraries, tools, examples, and documentation
 
 ## Benchmark
 **
