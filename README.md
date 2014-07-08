@@ -37,11 +37,15 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache HBase](http://hbase.apache.org) - Apache HBase
 * [Apache Phoenix](http://phoenix.apache.org/) - A SQL skin over HBase
 * [happybase](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase.
+* [Hannibal](https://github.com/sentric/hannibal) - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.
 
 ## SQL on Hadoop
 *SQL on Hadoop*
 
 * [Apache Hive](http://hive.apache.org)
+* [Impala](https://github.com/cloudera/impala)
+* [Presto](http://prestodb.io/)
+* [Apache Tajo](http://tajo.apache.org/)
 
 ## Workflow
 
