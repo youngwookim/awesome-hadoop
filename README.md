@@ -143,6 +143,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Realtime Data Processing
 
 * [Apache Storm](https://storm.incubator.apache.org/)
+* [Apache Samza](http://samza.incubator.apache.org/)
 
 ## Packaging, Provisioning and Monitoring
 
