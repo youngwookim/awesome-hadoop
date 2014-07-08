@@ -30,7 +30,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 ## Data Ingestion and Integration
 
-* [Apache Flume] - Apache Flume
+* [Apache Flume](http://flume.apache.org) - Apache Flume
 
 ## Benchmark
 **
