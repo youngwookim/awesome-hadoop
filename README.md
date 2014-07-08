@@ -10,7 +10,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [Data Ingestion and Integration](#data-ingestion-and-integration)
 	- [DSL](#dsl)
 	- [Libraries and Tools](#libraries-and-tools)
-	- [Packaging and Provisioning](#packaging-and-provisioning)
+	- [Packaging, Provisioning and Monitoring](#packaging,-provisioning-and-monitoring)
+	- [Monitoring](#monitoring)
 	- [Benchmark](#benchmark)
 - [Resources](#resources)
 	- [Websites](#websites)
@@ -80,7 +81,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [HUE](http://gethue.com/)
 * [Zeppelin](http://zeppelin-project.org/)
 
-## Packaging and Provisioning
+## Packaging, Provisioning and Monitoring
 
 * [Apache Bigtop](http://bigtop.apache.org/) - Packaging and tests of the Apache Hadoop ecosystem 
 * [Apache Ambari](http://ambari.apache.org/)
