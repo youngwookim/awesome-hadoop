@@ -53,7 +53,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [packetpig](https://github.com/packetloop/packetpig)
 * [akela](https://github.com/mozilla-metrics/akela)
 * [seqpig](http://seqpig.sourceforge.net/) - Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop 
-* [Lipstick](https://github.com/Netflix/Lipstick) - http://techblog.netflix.com/2013/06/introducing-lipstick-on-apache-pig.html
+* [Lipstick](https://github.com/Netflix/Lipstick) - Pig workflow visualization tool. [Introducing Lipstick on A(pache) Pig](http://techblog.netflix.com/2013/06/introducing-lipstick-on-apache-pig.html)
 
 ## Benchmark
 **
