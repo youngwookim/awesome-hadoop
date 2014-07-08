@@ -47,7 +47,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## DSL and Libraries
 **
 
-* [Apache Pig](http://pig.apache.org)
+* [Apache Pig](http://pig.apache.org) - Apache Pig
 * [Apache DataFu](http://datafu.incubator.apache.org/) - A collection of libraries for working with large-scale data in Hadoop
 * [vahara](https://github.com/Ganglion/varaha) - Machine learning and natural language processing with Apache Pig
 * [packetpig](https://github.com/packetloop/packetpig) - Open Source Big Data Security Analytics
