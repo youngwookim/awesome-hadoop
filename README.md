@@ -15,18 +15,29 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [Books](#books)
 
 ## Hadoop
+*HDFS, MapReduce and YARN*
+
+* [Apache Hadoop](http://hadoop.apache.org/) - Apache Hadoop
 
 ## HBase
 
-## Hive
+## SQL on Hadoop
+*SQL on Hadoop*
 
-## Oozie
+* [Apache Hive](http://hive.apache.org)
 
-## Flume
+## Workflow
 
-## Spark
+* [Apache Oozie](http://oozie.apche.org) - Apache Oozie
 
-## Bigtop
+## Data Ingestion and Integration
+
+* [Apache Flume] - Apache Flume
+
+## Benchmark
+**
+
+* [Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/)
 
 # Resources
 Various resources, such as books, websites and articles.
@@ -34,7 +45,6 @@ Various resources, such as books, websites and articles.
 ## Websites
 *Useful websites and articles*
 
-* [Apache Hadoop](http://hadoop.apache.org/) - Apache Hadoop
 * [Hadoop 1.x vs 2](http://www.slideshare.net/RommelGarcia2/hadoop-1x-vs-2)
 * [All you wanted to know about Hadoop, but were too afraid to ask: genealogy of elephants.](https://blogs.apache.org/bigtop/entry/all_you_wanted_to_know)
 * [Hadoop Operations at LinkedIn](http://www.slideshare.net/allenwittenauer/2013-hadoopsummitemea)
@@ -45,6 +55,5 @@ Various resources, such as books, websites and articles.
 * [Migrating to MapReduce 2 on YARN (For Operators)](http://blog.cloudera.com/blog/2013/11/migrating-to-mapreduce-2-on-yarn-for-operators/)
 * [An example Apache Hadoop Yarn upgrade](http://www.slideshare.net/mikejf12/an-example-apache-hadoop-yarn-upgrade)
 * [Apache Hadoop In Theory And Practice](http://www.slideshare.net/AdamKawa/hadoop-intheoryandpractice)
-
 
 ## Books
