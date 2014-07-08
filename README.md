@@ -8,7 +8,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [SQL on Hadoop](#sql-on-hadoop)
 	- [Workflow](#workflow)
 	- [Data Ingestion and Integration](#data-ingestion-and-integration)
-	- [DSL and Libraries](#dsl-and-libraries)
+	- [DSL](#dsl)
+	- [Libraries and Tools](#libraries-and-tools)
 	- [Benchmark](#benchmark)
 - [Resources](#resources)
 	- [Websites](#websites)
@@ -55,7 +56,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * (https://github.com/jrkinley/flume-interceptor-analytics)
 * [.Net FlumeNG Clients](https://github.com/marksl/DotNetFlumeNG.Clients)
 
-## DSL and Libraries
+## DSL
 **
 
 * [Apache Pig](http://pig.apache.org) - Apache Pig
@@ -65,6 +66,11 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [akela](https://github.com/mozilla-metrics/akela) - Mozilla's utility library for Hadoop, HBase, Pig, etc.
 * [seqpig](http://seqpig.sourceforge.net/) - Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop 
 * [Lipstick](https://github.com/Netflix/Lipstick) - Pig workflow visualization tool. [Introducing Lipstick on A(pache) Pig](http://techblog.netflix.com/2013/06/introducing-lipstick-on-apache-pig.html)
+
+## Libraries and Tools
+**
+
+* [Kite Software Development Kit](http://kitesdk.org/)
 
 ## Benchmark
 **
