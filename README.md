@@ -39,6 +39,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Workflow
 
 * [Apache Oozie](http://oozie.apche.org) - Apache Oozie
+* [Azkaban](http://azkaban.github.io/)
 
 ## Data Ingestion and Integration
 
