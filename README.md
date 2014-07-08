@@ -92,13 +92,13 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
   * https://github.com/forward/node-hive
   * https://github.com/recruitcojp/WebHive
   * https://github.com/tagomoris/shib
-  * [Clojure library for interacting with Hive via Thrift](https://github.com/bmuller/clive)
+  * [clive](https://github.com/bmuller/clive) - Clojure library for interacting with Hive via Thrift
   * https://bitbucket.org/vadim/hive-sharp
   * http://www.phphiveadmin.net/
   * https://github.com/anjuke/hwi
   * https://code.google.com/a/apache-extras.org/p/hipy/
   * https://github.com/dmorel/Thrift-API-HiveClient2 (Perl - HiveServer2)
-  * https://github.com/dropbox/PyHive
+  * [PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto
   * https://github.com/recruitcojp/OdbcHive
   * [Hive-Sharp](https://bitbucket.org/vadim/hive-sharp)
 
