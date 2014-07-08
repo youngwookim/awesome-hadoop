@@ -4,12 +4,29 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 - [Awesome Hadoop](#awesome-hadoop)
 	- [Hadoop](#hadoop)
+	- [HBase](#hbase]
+	- [Hive](#hive)
+	- [Oozie](#oozie)
+	- [Flume](#flume)
+	- [Spark](#spark)
+	- [Bigtop](#bigtop)
 - [Resources](#resources)
 	- [Websites](#websites)
 	- [Books](#books)
 
 ## Hadoop
 
+## HBase
+
+## Hive
+
+## Oozie
+
+## Flume
+
+## Spark
+
+## Bigtop
 
 # Resources
 Various resources, such as books, websites and articles.
