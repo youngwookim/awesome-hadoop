@@ -52,8 +52,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Flume UDP Source](https://github.com/whitepages/flume-udp-source)
 * [Stratio Ingestion](https://github.com/Stratio/stratio-ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
 * (https://github.com/relistan/flume-serializers)
-
-https://github.com/jrkinley/flume-interceptor-analytics
+* (https://github.com/jrkinley/flume-interceptor-analytics)
+* [.Net FlumeNG Clients](https://github.com/marksl/DotNetFlumeNG.Clients)
 
 ## DSL and Libraries
 **
