@@ -10,6 +10,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [Data Ingestion and Integration](#data-ingestion-and-integration)
 	- [DSL](#dsl)
 	- [Libraries and Tools](#libraries-and-tools)
+	- [Packaging and Provisioning](#packaging-and-provisioning)
 	- [Benchmark](#benchmark)
 - [Resources](#resources)
 	- [Websites](#websites)
