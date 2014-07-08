@@ -4,7 +4,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 - [Awesome Hadoop](#awesome-hadoop)
 	- [Hadoop](#hadoop)
-	- [HBase](#hbase]
+	- [HBase](#hbase)
 	- [Hive](#hive)
 	- [Oozie](#oozie)
 	- [Flume](#flume)
