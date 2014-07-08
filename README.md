@@ -27,10 +27,10 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [mrjob](https://github.com/Yelp/mrjob/) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
 * [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop.
 * [hdfs-du](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system. 
-* [SpatialHadoop](http://spatialhadoop.cs.umn.edu/)
 * [Apache Twill](http://twill.incubator.apache.org/)
 * [Apache Tez](http://tez.incubator.apache.org/)
 * [Apache Spark](http://spark.apache.org/)
+* [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. 
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
 * [Elasticsearch Hadoop](https://github.com/elasticsearch/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
 * [Apache Falcon](http://falcon.incubator.apache.org/) - Data management and processing platform
