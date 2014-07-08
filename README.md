@@ -44,6 +44,16 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Data Ingestion and Integration
 
 * [Apache Flume](http://flume.apache.org) - Apache Flume
+* [Apache Sqoop](http://sqoop.apache.org) - Apache Sqoop
+* [Flume MongoDB Sink](https://github.com/leonlee/flume-ng-mongodb-sink)
+* (https://github.com/btoddb/flume-ng-hornetq-channel)
+* (https://github.com/leonlee/flume-ng-msgpack-source)
+* (https://github.com/jcustenborder/flume-ng-rabbitmq)
+* [Flume UDP Source](https://github.com/whitepages/flume-udp-source)
+* [Stratio Ingestion](https://github.com/Stratio/stratio-ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
+* (https://github.com/relistan/flume-serializers)
+
+https://github.com/jrkinley/flume-interceptor-analytics
 
 ## DSL and Libraries
 **
