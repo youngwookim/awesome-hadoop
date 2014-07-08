@@ -41,6 +41,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Phoenix](http://phoenix.apache.org/) - A SQL skin over HBase
 * [happybase](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase.
 * [Hannibal](https://github.com/sentric/hannibal) - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.
+* [Haeinsa](https://github.com/VCNC/haeinsa) - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase
+* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase
 
 ## SQL on Hadoop
 *SQL on Hadoop*
