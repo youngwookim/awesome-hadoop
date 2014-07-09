@@ -169,6 +169,7 @@ Various resources, such as books, websites and articles.
 ## Websites
 *Useful websites and articles*
 
+* [Hadoop Weekly](http://www.hadoopweekly.com/)
 * [Hadoop 1.x vs 2](http://www.slideshare.net/RommelGarcia2/hadoop-1x-vs-2)
 * [All you wanted to know about Hadoop, but were too afraid to ask: genealogy of elephants.](https://blogs.apache.org/bigtop/entry/all_you_wanted_to_know)
 * [Introducing Apache Hadoop YARN](http://hortonworks.com/blog/introducing-apache-hadoop-yarn/)
