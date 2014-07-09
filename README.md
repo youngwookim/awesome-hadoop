@@ -23,17 +23,17 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Hadoop](http://hadoop.apache.org/) - Apache Hadoop
 * [dumbo](https://github.com/klbostee/dumbo) - Python module that allows you to easily write and run Hadoop programs.
+* [Apache Twill](http://twill.incubator.apache.org/)
+* [Apache Tez](http://tez.incubator.apache.org/)
+* [Apache Spark](http://spark.apache.org/)
+* [Apache Falcon](http://falcon.incubator.apache.org/) - Data management and processing platform
+* [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. 
+* [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
+* [Elasticsearch Hadoop](https://github.com/elasticsearch/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
 * [hadoopy](https://github.com/bwhite/hadoopy) - Python MapReduce library written in Cython. 
 * [mrjob](https://github.com/Yelp/mrjob/) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
 * [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop.
 * [hdfs-du](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system. 
-* [Apache Twill](http://twill.incubator.apache.org/)
-* [Apache Tez](http://tez.incubator.apache.org/)
-* [Apache Spark](http://spark.apache.org/)
-* [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. 
-* [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
-* [Elasticsearch Hadoop](https://github.com/elasticsearch/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
-* [Apache Falcon](http://falcon.incubator.apache.org/) - Data management and processing platform
 
 ## HBase
 **
@@ -91,7 +91,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
   * https://github.com/hrp/sequel-hive-adapter
   * https://github.com/forward/node-hive
   * https://github.com/recruitcojp/WebHive
-  * https://github.com/tagomoris/shib
+  * [shib](https://github.com/tagomoris/shib) - WebUI for query engines: Hive and Presto
   * [clive](https://github.com/bmuller/clive) - Clojure library for interacting with Hive via Thrift
   * https://bitbucket.org/vadim/hive-sharp
   * http://www.phphiveadmin.net/
