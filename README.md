@@ -7,7 +7,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [YARN](#yarn)
 	- [HBase](#hbase)
 	- [SQL on Hadoop](#sql-on-hadoop)
-	- [Workflow](#workflow)
+	- [Workflow, Lifecycle and Governance](#workflow_lifecycle_and_Governance)
 	- [Data Ingestion and Integration](#data-ingestion-and-integration)
 	- [DSL](#dsl)
 	- [Libraries and Tools](#libraries-and-tools)
@@ -25,7 +25,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Hadoop](http://hadoop.apache.org/) - Apache Hadoop
 * [Apache Tez](http://tez.incubator.apache.org/)
 * [Apache Spark](http://spark.apache.org/)
-* [Apache Falcon](http://falcon.incubator.apache.org/) - Data management and processing platform
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. 
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
 * [Elasticsearch Hadoop](https://github.com/elasticsearch/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
@@ -109,10 +108,11 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
   * https://github.com/recruitcojp/OdbcHive
   * [Hive-Sharp](https://bitbucket.org/vadim/hive-sharp)
 
-## Workflow
+## Workflow, Lifecycle and Governance
 
 * [Apache Oozie](http://oozie.apche.org) - Apache Oozie
 * [Azkaban](http://azkaban.github.io/)
+* [Apache Falcon](http://falcon.incubator.apache.org/) - Data management and processing platform
 
 ## Data Ingestion and Integration
 
