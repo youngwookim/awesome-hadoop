@@ -14,6 +14,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [Packaging, Provisioning and Monitoring](#packaging-provisioning-and-monitoring)
 	- [Monitoring](#monitoring)
 	- [Benchmark](#benchmark)
+	- [Misc.](#misc)
 - [Resources](#resources)
 	- [Websites](#websites)
 	- [Books](#books)
