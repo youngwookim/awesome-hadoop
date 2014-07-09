@@ -34,6 +34,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [mrjob](https://github.com/Yelp/mrjob/) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
 * [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop.
 * [hdfs-du](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system. 
+* [White Elephant](https://github.com/linkedin/white-elephant) - Hadoop log aggregator and dashboard
 
 ## HBase
 **
@@ -162,6 +163,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Big-Bench](https://github.com/intel-hadoop/Big-Bench)
 * [hive-benchmarks](https://github.com/yhuai/hive-benchmarks)
 * [hive-testbench](https://github.com/cartershanklin/hive-testbench) - Testbench for experimenting with Apache Hive at any data scale.
+
+## Misc.
 
 # Resources
 Various resources, such as books, websites and articles.
