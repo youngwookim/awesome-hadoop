@@ -157,7 +157,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 ## Packaging, Provisioning and Monitoring
 
-* [Apache Bigtop](http://bigtop.apache.org/) - Packaging and tests of the Apache Hadoop ecosystem 
+* [Apache Zookeeper](http://zookeeper.apache.org/) - Apache Zookeeper
+* [Apache Bigtop](http://bigtop.apache.org/) - Apache Bigtop: Packaging and tests of the Apache Hadoop ecosystem 
 * [Apache Ambari](http://ambari.apache.org/)
 * [Ganglia Monitoring System](http://ganglia.sourceforge.net/)
 
