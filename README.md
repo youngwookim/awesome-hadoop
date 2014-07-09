@@ -4,6 +4,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 - [Awesome Hadoop](#awesome-hadoop)
 	- [Hadoop](#hadoop)
+	- [YARN](#yarn)
 	- [HBase](#hbase)
 	- [SQL on Hadoop](#sql-on-hadoop)
 	- [Workflow](#workflow)
@@ -20,10 +21,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [Books](#books)
 
 ## Hadoop
-*HDFS, MapReduce and YARN*
 
 * [Apache Hadoop](http://hadoop.apache.org/) - Apache Hadoop
-* [Apache Twill](http://twill.incubator.apache.org/)
 * [Apache Tez](http://tez.incubator.apache.org/)
 * [Apache Spark](http://spark.apache.org/)
 * [Apache Falcon](http://falcon.incubator.apache.org/) - Data management and processing platform
@@ -36,6 +35,12 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop.
 * [hdfs-du](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system. 
 * [White Elephant](https://github.com/linkedin/white-elephant) - Hadoop log aggregator and dashboard
+* [Kiji Project](http://www.kiji.org/)
+
+## YARN
+
+* [Apache Twill](http://twill.incubator.apache.org/)
+* [mpich2-yarn](https://github.com/clarkyzl/mpich2-yarn) - Running MPICH2 on Yarn
 
 ## HBase
 **
