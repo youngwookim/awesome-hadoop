@@ -19,6 +19,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 - [Resources](#resources)
 	- [Websites](#websites)
 	- [Books](#books)
+- [Other Awesome Lists](#other-awesome-lists)
 
 ## Hadoop
 
@@ -200,3 +201,6 @@ Various resources, such as books, websites and articles.
 * [Ganglia configuration for a small Hadoop cluster and some troubleshooting](http://hakunamapdata.com/ganglia-configuration-for-a-small-hadoop-cluster-and-some-troubleshooting/)
 
 ## Books
+
+# Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
