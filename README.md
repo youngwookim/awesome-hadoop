@@ -53,6 +53,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Hannibal](https://github.com/sentric/hannibal) - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.
 * [Haeinsa](https://github.com/VCNC/haeinsa) - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase
 * [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase
+* [Apache Accumulo](https://accumulo.apache.org/) - The Apache Accumulo™ sorted, distributed key/value store is a robust, scalable, high performance data storage and retrieval system.
+* [OpenTSDB](http://opentsdb.net/) - The Scalable Time Series Database
 
 ## SQL on Hadoop
 *SQL on Hadoop*
@@ -154,6 +156,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [HUE](http://gethue.com/)
 * [Zeppelin](http://zeppelin-project.org/)
 * [Jumbune](https://github.com/impetus-opensource/jumbune) - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs.
+* [Apache Thrift](http://thrift.apache.org/)
+* [Apache Avro](http://avro.apache.org/) - Apache Avro is a data serialization system.
 
 ## Realtime Data Processing
 
