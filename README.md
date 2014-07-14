@@ -149,6 +149,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [gohadoop](https://github.com/hortonworks/gohadoop) - Native go clients for Apache Hadoop YARN.
 * [HUE](http://gethue.com/)
 * [Zeppelin](http://zeppelin-project.org/)
+* [Jumbune](https://github.com/impetus-opensource/jumbune) - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs.
 
 ## Realtime Data Processing
 
@@ -159,8 +160,9 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Zookeeper](http://zookeeper.apache.org/) - Apache Zookeeper
 * [Apache Bigtop](http://bigtop.apache.org/) - Apache Bigtop: Packaging and tests of the Apache Hadoop ecosystem 
-* [Apache Ambari](http://ambari.apache.org/)
+* [Apache Ambari](http://ambari.apache.org/) - Apache Ambari
 * [Ganglia Monitoring System](http://ganglia.sourceforge.net/)
+* [ankush](https://github.com/impetus-opensource/ankush) - A big data cluster management tool that creates and manages clusters of different technologies.
 
 ## Benchmark
 **
