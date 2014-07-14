@@ -161,6 +161,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Thrift](http://thrift.apache.org/)
 * [Apache Avro](http://avro.apache.org/) - Apache Avro is a data serialization system.
 * [Elephant Bird](https://github.com/kevinweil/elephant-bird) - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
+* [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/)
 
 ## Realtime Data Processing
 
