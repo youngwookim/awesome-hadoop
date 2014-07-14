@@ -5,13 +5,14 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 - [Awesome Hadoop](#awesome-hadoop)
 	- [Hadoop](#hadoop)
 	- [YARN](#yarn)
-	- [HBase](#hbase)
+	- [NoSQL](#nosql)
 	- [SQL on Hadoop](#sql-on-hadoop)
 	- [Workflow, Lifecycle and Governance](#workflow_lifecycle_and_Governance)
 	- [Data Ingestion and Integration](#data-ingestion-and-integration)
 	- [DSL](#dsl)
 	- [Libraries and Tools](#libraries-and-tools)
 	- [Realtime Data Processing](#realtime-data-processing)
+	- [Distributed Computing and Programming](#distributed_computing_and_programming)
 	- [Packaging, Provisioning and Monitoring](#packaging-provisioning-and-monitoring)
 	- [Monitoring](#monitoring)
 	- [Search](#search)
@@ -26,7 +27,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Hadoop](http://hadoop.apache.org/) - Apache Hadoop
 * [Apache Tez](http://tez.incubator.apache.org/)
-* [Apache Spark](http://spark.apache.org/)
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. 
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
 * [Elasticsearch Hadoop](https://github.com/elasticsearch/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
@@ -44,8 +44,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Twill](http://twill.incubator.apache.org/)
 * [mpich2-yarn](https://github.com/clarkyzl/mpich2-yarn) - Running MPICH2 on Yarn
 
-## HBase
-**
+## NoSQL
+*Next Generation Databases mostly addressing some of the points: being non-relational, distributed, open-source and horizontally scalable.*
 
 * [Apache HBase](http://hbase.apache.org) - Apache HBase
 * [Apache Phoenix](http://phoenix.apache.org/) - A SQL skin over HBase
@@ -55,6 +55,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase
 * [Apache Accumulo](https://accumulo.apache.org/) - The Apache Accumulo™ sorted, distributed key/value store is a robust, scalable, high performance data storage and retrieval system.
 * [OpenTSDB](http://opentsdb.net/) - The Scalable Time Series Database
+* [Apache Cassandra](http://cassandra.apache.org/)
 
 ## SQL on Hadoop
 *SQL on Hadoop*
@@ -111,6 +112,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
   * [PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto
   * https://github.com/recruitcojp/OdbcHive
   * [Hive-Sharp](https://bitbucket.org/vadim/hive-sharp)
+* [Apache Drill](http://incubator.apache.org/)
 
 ## Workflow, Lifecycle and Governance
 
@@ -150,7 +152,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Libraries and Tools
 **
 
-* [Apache Crunch](http://crunch.apache.org)
 * [Kite Software Development Kit](http://kitesdk.org/) - A set of libraries, tools, examples, and documentation
 * [gohadoop](https://github.com/hortonworks/gohadoop) - Native go clients for Apache Hadoop YARN.
 * [HUE](http://gethue.com/)
@@ -164,13 +165,19 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Storm](https://storm.incubator.apache.org/)
 * [Apache Samza](http://samza.incubator.apache.org/)
 
+## Distributed Computing and Programming
+
+* [Apache Spark](http://spark.apache.org/)
+* [Apache Crunch](http://crunch.apache.org)
+* [Cascading](http://www.cascading.org/) - Cascading is the proven application development platform for building data applications on Hadoop.
+
 ## Packaging, Provisioning and Monitoring
 
-* [Apache Zookeeper](http://zookeeper.apache.org/) - Apache Zookeeper
 * [Apache Bigtop](http://bigtop.apache.org/) - Apache Bigtop: Packaging and tests of the Apache Hadoop ecosystem 
 * [Apache Ambari](http://ambari.apache.org/) - Apache Ambari
 * [Ganglia Monitoring System](http://ganglia.sourceforge.net/)
 * [ankush](https://github.com/impetus-opensource/ankush) - A big data cluster management tool that creates and manages clusters of different technologies.
+* [Apache Zookeeper](http://zookeeper.apache.org/) - Apache Zookeeper
 * [Apache Curator](http://curator.apache.org/) - ZooKeeper client wrapper and rich ZooKeeper framework
 
 ## Search
@@ -218,6 +225,7 @@ Various resources, such as books, websites and articles.
 * [Hadoop - Distributions and Commercial Support](http://wiki.apache.org/hadoop/Distributions%20and%20Commercial%20Support)
 * [Ganglia configuration for a small Hadoop cluster and some troubleshooting](http://hakunamapdata.com/ganglia-configuration-for-a-small-hadoop-cluster-and-some-troubleshooting/)
 * [Hadoop illuminated](http://hadoopilluminated.com/) - Open Source Hadoop Book
+* [NoSQL Database](http://nosql-database.org/)
 
 ## Books
 
