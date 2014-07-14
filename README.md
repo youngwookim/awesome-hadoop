@@ -36,6 +36,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [hdfs-du](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system. 
 * [White Elephant](https://github.com/linkedin/white-elephant) - Hadoop log aggregator and dashboard
 * [Kiji Project](http://www.kiji.org/)
+* [Genie](https://github.com/Netflix/genie) - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
 
 ## YARN
 
@@ -129,6 +130,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
  * (https://github.com/relistan/flume-serializers)
  * (https://github.com/jrkinley/flume-interceptor-analytics)
  * [.Net FlumeNG Clients](https://github.com/marksl/DotNetFlumeNG.Clients)
+* [Suro](https://github.com/Netflix/suro) - Netflix's distributed Data Pipeline
 
 ## DSL
 **
@@ -164,6 +166,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Ambari](http://ambari.apache.org/) - Apache Ambari
 * [Ganglia Monitoring System](http://ganglia.sourceforge.net/)
 * [ankush](https://github.com/impetus-opensource/ankush) - A big data cluster management tool that creates and manages clusters of different technologies.
+* [Curator](https://github.com/Netflix/curator) - ZooKeeper client wrapper and rich ZooKeeper framework
 
 ## Benchmark
 **
