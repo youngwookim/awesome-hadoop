@@ -203,7 +203,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 ## Machine learning and Big Data analytics
 
-* [Apache Maout](http://hahout.apache.org]
+* [Apache Maout](http://mahout.apache.org)
 * [Cloudera Oryx](https://github.com/cloudera/oryx) - The Oryx open source project provides simple, real-time large-scale machine learning / predictive analytics infrastructure.
 * [MLlib](https://spark.apache.org/mllib/) - MLlib is Apache Spark's scalable machine learning library.
 * [R](http://www.r-project.org/) - R is a free software environment for statistical computing and graphics.
