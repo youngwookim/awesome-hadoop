@@ -21,6 +21,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [Misc.](#misc)
 - [Resources](#resources)
 	- [Websites](#websites)
+	- [Presentations](#presentations)
 	- [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
 
@@ -67,52 +68,56 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Tajo](http://tajo.apache.org/)
 * Hive Plugins
  * UDF
-  * http://nexr.github.io/hive-udf/
-  * https://github.com/edwardcapriolo/hive_cassandra_udfs
-  * https://github.com/livingsocial/HiveSwarm
-  * https://github.com/ThinkBigAnalytics/Hive-Extensions-from-Think-Big-Analytics
-  * https://github.com/karthkk/udfs
-  * https://github.com/kevinweil/elephant-bird - Twitter
-  * https://github.com/lovelysystems/ls-hive
-  * https://github.com/stewi2/hive-udfs
-  * https://github.com/klout/brickhouse
-  * https://github.com/markgrover/hive-translate (PostgreSQL translate())
-  * https://github.com/deanwampler/HiveUDFs
-  * https://github.com/myui/hivemall (Machine Learning UDF/UDAF/UDTF)
-  * https://github.com/edwardcapriolo/hive-geoip (GeoIP UDF)
+   * http://nexr.github.io/hive-udf/
+   * https://github.com/edwardcapriolo/hive_cassandra_udfs
+   * https://github.com/livingsocial/HiveSwarm
+   * https://github.com/ThinkBigAnalytics/Hive-Extensions-from-Think-Big-Analytics
+   * https://github.com/karthkk/udfs
+   * https://github.com/kevinweil/elephant-bird - Twitter
+   * https://github.com/lovelysystems/ls-hive
+   * https://github.com/stewi2/hive-udfs
+   * https://github.com/klout/brickhouse
+   * https://github.com/markgrover/hive-translate (PostgreSQL translate())
+   * https://github.com/deanwampler/HiveUDFs
+   * https://github.com/myui/hivemall (Machine Learning UDF/UDAF/UDTF)
+   * https://github.com/edwardcapriolo/hive-geoip (GeoIP UDF)
  * Storage Handler
-  * https://github.com/dvasilen/Hive-Cassandra
-  * https://github.com/yc-huang/Hive-mongo
-  * https://github.com/balshor/gdata-storagehandler
-  * https://github.com/karthkk/hive-hbase-json
-  * https://github.com/sunsuk7tp/hive-hbase-integration
-  * https://bitbucket.org/rodrigopr/redisstoragehandler
-  * https://github.com/zhuguangbin/HiveJDBCStorageHanlder
-  * https://github.com/chimpler/hive-solr
-  * https://github.com/bfemiano/accumulo-hive-storage-manager
+   * https://github.com/dvasilen/Hive-Cassandra
+   * https://github.com/yc-huang/Hive-mongo
+   * https://github.com/balshor/gdata-storagehandler
+   * https://github.com/karthkk/hive-hbase-json
+   * https://github.com/sunsuk7tp/hive-hbase-integration
+   * https://bitbucket.org/rodrigopr/redisstoragehandler
+   * https://github.com/zhuguangbin/HiveJDBCStorageHanlder
+   * https://github.com/chimpler/hive-solr
+   * https://github.com/bfemiano/accumulo-hive-storage-manager
  * SerDe
-  * https://github.com/rcongiu/Hive-JSON-Serde
-  * https://github.com/mochi/hive-json-serde
-  * https://github.com/ogrodnek/csv-serde
-  * https://github.com/parag/HiveJsonSerde
-  * https://github.com/johanoskarsson/hive-json-serde
-  * https://github.com/electrum/hive-serde - JSON
-  * https://github.com/karthkk/hive-hbase-json
- * Libraries
-  * https://github.com/forward/rbhive
-  * https://github.com/synctree/activerecord-hive-adapter
-  * https://github.com/hrp/sequel-hive-adapter
-  * https://github.com/forward/node-hive
-  * https://github.com/recruitcojp/WebHive
-  * [shib](https://github.com/tagomoris/shib) - WebUI for query engines: Hive and Presto
-  * [clive](https://github.com/bmuller/clive) - Clojure library for interacting with Hive via Thrift
-  * http://www.phphiveadmin.net/
-  * https://github.com/anjuke/hwi
-  * https://code.google.com/a/apache-extras.org/p/hipy/
-  * https://github.com/dmorel/Thrift-API-HiveClient2 (Perl - HiveServer2)
-  * [PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto
-  * https://github.com/recruitcojp/OdbcHive
-  * [Hive-Sharp](https://bitbucket.org/vadim/hive-sharp)
+   * https://github.com/rcongiu/Hive-JSON-Serde
+   * https://github.com/mochi/hive-json-serde
+   * https://github.com/ogrodnek/csv-serde
+   * https://github.com/parag/HiveJsonSerde
+   * https://github.com/johanoskarsson/hive-json-serde
+   * https://github.com/electrum/hive-serde - JSON
+   * https://github.com/karthkk/hive-hbase-json
+ * Libraries and tools
+   * https://github.com/forward/rbhive
+   * https://github.com/synctree/activerecord-hive-adapter
+   * https://github.com/hrp/sequel-hive-adapter
+   * https://github.com/forward/node-hive
+   * https://github.com/recruitcojp/WebHive
+   * [shib](https://github.com/tagomoris/shib) - WebUI for query engines: Hive and Presto
+   * [clive](https://github.com/bmuller/clive) - Clojure library for interacting with Hive via Thrift
+   * http://www.phphiveadmin.net/
+   * https://github.com/anjuke/hwi
+   * https://code.google.com/a/apache-extras.org/p/hipy/
+   * https://github.com/dmorel/Thrift-API-HiveClient2 (Perl - HiveServer2)
+   * [PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto
+   * https://github.com/recruitcojp/OdbcHive
+   * [Hive-Sharp](https://bitbucket.org/vadim/hive-sharp)
+   * [HiveRunner](https://github.com/klarna/HiveRunner) - An Open Source unit test framework for hadoop hive queries based on JUnit4
+   * [Beetest](https://github.com/kawaa/Beetest) - A super simple utility for testing Apache Hive scripts locally for non-Java developers.
+   * [Hive_test](https://github.com/edwardcapriolo/hive_test)- Unit test framework for hive and hive-service
+
 * [Apache Drill](http://incubator.apache.org/)
 
 ## Workflow, Lifecycle and Governance
@@ -229,18 +234,22 @@ Various resources, such as books, websites and articles.
 * [Apache Hadoop YARN - NodeManager](http://hortonworks.com/blog/apache-hadoop-yarn-nodemanager/)
 * [Migrating to MapReduce 2 on YARN (For Users)](http://blog.cloudera.com/blog/2013/11/migrating-to-mapreduce-2-on-yarn-for-users/)
 * [Migrating to MapReduce 2 on YARN (For Operators)](http://blog.cloudera.com/blog/2013/11/migrating-to-mapreduce-2-on-yarn-for-operators/)
-* [An example Apache Hadoop Yarn upgrade](http://www.slideshare.net/mikejf12/an-example-apache-hadoop-yarn-upgrade)
-* [Apache Hadoop In Theory And Practice](http://www.slideshare.net/AdamKawa/hadoop-intheoryandpractice)
-* [Hadoop Operations at LinkedIn](http://www.slideshare.net/allenwittenauer/2013-hadoopsummitemea)
-* [Hadoop Performance at LinkedIn](http://www.slideshare.net/allenwittenauer/2012-lihadoopperf)
 * [Hadoop and Big Data: Use Cases at Salesforce.com](http://blogs.developerforce.com/engineering/2013/03/hadoop-use-cases-at-salesforce-com.html)
-* [Hadoop 24/7](http://www.slideshare.net/allenwittenauer/aw-apachecon2009-15342917)
 * [All you wanted to know about Hadoop, but were too afraid to ask: genealogy of elephants.](https://blogs.apache.org/bigtop/entry/all_you_wanted_to_know)
 * [What is Bigtop, and Why Should You Care?](https://blogs.apache.org/bigtop/entry/bigtop_and_why_should_you)
 * [Hadoop - Distributions and Commercial Support](http://wiki.apache.org/hadoop/Distributions%20and%20Commercial%20Support)
 * [Ganglia configuration for a small Hadoop cluster and some troubleshooting](http://hakunamapdata.com/ganglia-configuration-for-a-small-hadoop-cluster-and-some-troubleshooting/)
 * [Hadoop illuminated](http://hadoopilluminated.com/) - Open Source Hadoop Book
 * [NoSQL Database](http://nosql-database.org/)
+* [10 Best Practices for Apache Hive](http://www.qubole.com/hive-best-practices/)
+
+## Presentations
+
+* [Hadoop 24/7](http://www.slideshare.net/allenwittenauer/aw-apachecon2009-15342917)
+* [An example Apache Hadoop Yarn upgrade](http://www.slideshare.net/mikejf12/an-example-apache-hadoop-yarn-upgrade)
+* [Apache Hadoop In Theory And Practice](http://www.slideshare.net/AdamKawa/hadoop-intheoryandpractice)
+* [Hadoop Operations at LinkedIn](http://www.slideshare.net/allenwittenauer/2013-hadoopsummitemea)
+* [Hadoop Performance at LinkedIn](http://www.slideshare.net/allenwittenauer/2012-lihadoopperf)
 
 ## Books
 
