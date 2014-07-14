@@ -242,6 +242,7 @@ Various resources, such as books, websites and articles.
 * [Hadoop illuminated](http://hadoopilluminated.com/) - Open Source Hadoop Book
 * [NoSQL Database](http://nosql-database.org/)
 * [10 Best Practices for Apache Hive](http://www.qubole.com/hive-best-practices/)
+* [Hadoop Operations at Scale](http://hortonworks.com/blog/apache-hadoop-operations-scale/)
 
 ## Presentations
 
