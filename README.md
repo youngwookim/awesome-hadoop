@@ -184,6 +184,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Zookeeper](http://zookeeper.apache.org/) - Apache Zookeeper
 * [Apache Curator](http://curator.apache.org/) - ZooKeeper client wrapper and rich ZooKeeper framework
 * [Buildoop](https://github.com/buildoop/buildoop) - Hadoop Ecosystem Builder
+* [Deploop](http://deploop.github.io/) - The Hadoop Deploy System
 
 ## Search
 
@@ -207,6 +208,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [MLlib](https://spark.apache.org/mllib/) - MLlib is Apache Spark's scalable machine learning library.
 * [R](http://www.r-project.org/) - R is a free software environment for statistical computing and graphics.
 * [RHive](http://nexr.github.io/RHive/) - RHive is an R extension facilitating distributed computing via Apache Hive.
+* [RHadoop](https://github.com/RevolutionAnalytics/RHadoop/wiki)
 
 ## Misc.
 
