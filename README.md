@@ -128,13 +128,13 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Kafka](http://kafka.apache.org/) - Apache Kafka
 * Flume Plugins
  * [Flume MongoDB Sink](https://github.com/leonlee/flume-ng-mongodb-sink)
- * (https://github.com/btoddb/flume-ng-hornetq-channel)
- * (https://github.com/leonlee/flume-ng-msgpack-source)
- * (https://github.com/jcustenborder/flume-ng-rabbitmq)
+ * [Flume HornetQ Channel](https://github.com/btoddb/flume-ng-hornetq-channel)
+ * [Flume MessagePack Source](https://github.com/leonlee/flume-ng-msgpack-source)
+ * [Flume RabbitMQ source and sink](https://github.com/jcustenborder/flume-ng-rabbitmq)
  * [Flume UDP Source](https://github.com/whitepages/flume-udp-source)
  * [Stratio Ingestion](https://github.com/Stratio/stratio-ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
- * (https://github.com/relistan/flume-serializers)
- * (https://github.com/jrkinley/flume-interceptor-analytics)
+ * [Flume Custom Serializers](https://github.com/relistan/flume-serializers)
+ * [Real-time analytics in Apache Flume](https://github.com/jrkinley/flume-interceptor-analytics)
  * [.Net FlumeNG Clients](https://github.com/marksl/DotNetFlumeNG.Clients)
 * [Suro](https://github.com/Netflix/suro) - Netflix's distributed Data Pipeline
 
