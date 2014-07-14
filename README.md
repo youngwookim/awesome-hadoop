@@ -62,7 +62,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 *SQL on Hadoop*
 
 * [Apache Hive](http://hive.apache.org)
-* [Impala](https://github.com/cloudera/impala)
+* [Cloudera Impala](http://impala.io/)
 * [Presto](http://prestodb.io/)
 * [Apache Tajo](http://tajo.apache.org/)
 * Hive Plugins
