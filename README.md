@@ -197,6 +197,7 @@ Various resources, such as books, websites and articles.
 *Useful websites and articles*
 
 * [Hadoop Weekly](http://www.hadoopweekly.com/)
+* [The Hadoop Ecosystem Table](http://hadoopecosystemtable.github.io/)
 * [Hadoop 1.x vs 2](http://www.slideshare.net/RommelGarcia2/hadoop-1x-vs-2)
 * [Apache Hadoop YARN: Yet Another Resource Negotiator](http://www.socc2013.org/home/program/a5-vavilapalli.pdf)
 * [Introducing Apache Hadoop YARN](http://hortonworks.com/blog/introducing-apache-hadoop-yarn/)
@@ -216,6 +217,7 @@ Various resources, such as books, websites and articles.
 * [What is Bigtop, and Why Should You Care?](https://blogs.apache.org/bigtop/entry/bigtop_and_why_should_you)
 * [Hadoop - Distributions and Commercial Support](http://wiki.apache.org/hadoop/Distributions%20and%20Commercial%20Support)
 * [Ganglia configuration for a small Hadoop cluster and some troubleshooting](http://hakunamapdata.com/ganglia-configuration-for-a-small-hadoop-cluster-and-some-troubleshooting/)
+* [Hadoop illuminated](http://hadoopilluminated.com/) - Open Source Hadoop Book
 
 ## Books
 
