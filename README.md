@@ -17,6 +17,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [Monitoring](#monitoring)
 	- [Search](#search)
 	- [Benchmark](#benchmark)
+	- [Machine learning and Big Data analytics](#machine_learning_and_big_data_analytics]
 	- [Misc.](#misc)
 - [Resources](#resources)
 	- [Websites](#websites)
@@ -181,6 +182,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [ankush](https://github.com/impetus-opensource/ankush) - A big data cluster management tool that creates and manages clusters of different technologies.
 * [Apache Zookeeper](http://zookeeper.apache.org/) - Apache Zookeeper
 * [Apache Curator](http://curator.apache.org/) - ZooKeeper client wrapper and rich ZooKeeper framework
+* [Buildoop](https://github.com/buildoop/buildoop) - Hadoop Ecosystem Builder
 
 ## Search
 
@@ -196,6 +198,14 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Big-Bench](https://github.com/intel-hadoop/Big-Bench)
 * [hive-benchmarks](https://github.com/yhuai/hive-benchmarks)
 * [hive-testbench](https://github.com/cartershanklin/hive-testbench) - Testbench for experimenting with Apache Hive at any data scale.
+
+## Machine learning and Big Data analytics
+
+* [Apache Maout](http://hahout.apache.org]
+* [Cloudera Oryx](https://github.com/cloudera/oryx) - The Oryx open source project provides simple, real-time large-scale machine learning / predictive analytics infrastructure.
+* [MLlib](https://spark.apache.org/mllib/) - MLlib is Apache Spark's scalable machine learning library.
+* [R](http://www.r-project.org/) - R is a free software environment for statistical computing and graphics.
+* [RHive](http://nexr.github.io/RHive/) - RHive is an R extension facilitating distributed computing via Apache Hive.
 
 ## Misc.
 
