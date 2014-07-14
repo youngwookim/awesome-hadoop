@@ -160,7 +160,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Kite Software Development Kit](http://kitesdk.org/) - A set of libraries, tools, examples, and documentation
 * [gohadoop](https://github.com/hortonworks/gohadoop) - Native go clients for Apache Hadoop YARN.
-* [HUE](http://gethue.com/)
+* [Hue](http://gethue.com/) - A Web interface for analyzing data with Apache Hadoop.
 * [Zeppelin](http://zeppelin-project.org/)
 * [Jumbune](https://github.com/impetus-opensource/jumbune) - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs.
 * [Apache Thrift](http://thrift.apache.org/)
