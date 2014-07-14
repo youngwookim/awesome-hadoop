@@ -166,7 +166,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Ambari](http://ambari.apache.org/) - Apache Ambari
 * [Ganglia Monitoring System](http://ganglia.sourceforge.net/)
 * [ankush](https://github.com/impetus-opensource/ankush) - A big data cluster management tool that creates and manages clusters of different technologies.
-* [Curator](https://github.com/Netflix/curator) - ZooKeeper client wrapper and rich ZooKeeper framework
+* [Apache Curator](http://curator.apache.org/) - ZooKeeper client wrapper and rich ZooKeeper framework
 
 ## Benchmark
 **
