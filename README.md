@@ -17,7 +17,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [Monitoring](#monitoring)
 	- [Search](#search)
 	- [Benchmark](#benchmark)
-	- [Machine learning and Big Data analytics](#machine_learning_and_big_data_analytics]
+	- [Machine learning and Big Data analytics](#machine_learning_and_big_data_analytics)
 	- [Misc.](#misc)
 - [Resources](#resources)
 	- [Websites](#websites)
