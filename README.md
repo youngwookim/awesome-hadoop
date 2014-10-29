@@ -130,8 +130,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Data Ingestion and Integration
 
 * [Apache Flume](http://flume.apache.org) - Apache Flume
-* [Apache Sqoop](http://sqoop.apache.org) - Apache Sqoop
-* [Apache Kafka](http://kafka.apache.org/) - Apache Kafka
 * Flume Plugins
  * [Flume MongoDB Sink](https://github.com/leonlee/flume-ng-mongodb-sink)
  * [Flume HornetQ Channel](https://github.com/btoddb/flume-ng-hornetq-channel)
@@ -143,6 +141,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
  * [Real-time analytics in Apache Flume](https://github.com/jrkinley/flume-interceptor-analytics)
  * [.Net FlumeNG Clients](https://github.com/marksl/DotNetFlumeNG.Clients)
 * [Suro](https://github.com/Netflix/suro) - Netflix's distributed Data Pipeline
+* [Apache Sqoop](http://sqoop.apache.org) - Apache Sqoop
+* [Apache Kafka](http://kafka.apache.org/) - Apache Kafka
 
 ## DSL
 **
@@ -157,7 +157,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [PigPen](https://github.com/Netflix/PigPen) - PigPen is map-reduce for Clojure, or distributed Clojure. It compiles to Apache Pig, but you don't need to know much about Pig to use it.
 
 ## Libraries and Tools
-**
 
 * [Kite Software Development Kit](http://kitesdk.org/) - A set of libraries, tools, examples, and documentation
 * [gohadoop](https://github.com/hortonworks/gohadoop) - Native go clients for Apache Hadoop YARN.
