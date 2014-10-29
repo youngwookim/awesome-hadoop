@@ -43,6 +43,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 ## YARN
 
+* [Apache Slider](http://slider.incubator.apache.org/) - Apache Slider is a project in incubation at the Apache Software Foundation with the goal of making it possible and easy to deploy existing applications onto a YARN cluster.
 * [Apache Twill](http://twill.incubator.apache.org/)
 * [mpich2-yarn](https://github.com/clarkyzl/mpich2-yarn) - Running MPICH2 on Yarn
 
