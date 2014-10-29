@@ -40,11 +40,12 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [White Elephant](https://github.com/linkedin/white-elephant) - Hadoop log aggregator and dashboard
 * [Kiji Project](http://www.kiji.org/)
 * [Genie](https://github.com/Netflix/genie) - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
+* [Kylin](http://www.kylin.io/) - Kylin is an open source Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets.
 
 ## YARN
 
 * [Apache Slider](http://slider.incubator.apache.org/) - Apache Slider is a project in incubation at the Apache Software Foundation with the goal of making it possible and easy to deploy existing applications onto a YARN cluster.
-* [Apache Twill](http://twill.incubator.apache.org/)
+* [Apache Twill](http://twill.incubator.apache.org/) - Apache Twill is an abstraction over Apache Hadoop® YARN that reduces the complexity of developing distributed applications, allowing developers to focus more on their application logic.
 * [mpich2-yarn](https://github.com/clarkyzl/mpich2-yarn) - Running MPICH2 on Yarn
 
 ## NoSQL
@@ -64,9 +65,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 *SQL on Hadoop*
 
 * [Apache Hive](http://hive.apache.org)
-* [Cloudera Impala](http://impala.io/)
-* [Presto](http://prestodb.io/)
-* [Apache Tajo](http://tajo.apache.org/)
 * Hive Plugins
  * UDF
      * http://nexr.github.io/hive-udf/
@@ -118,7 +116,9 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * [HiveRunner](https://github.com/klarna/HiveRunner) - An Open Source unit test framework for hadoop hive queries based on JUnit4
      * [Beetest](https://github.com/kawaa/Beetest) - A super simple utility for testing Apache Hive scripts locally for non-Java developers.
      * [Hive_test](https://github.com/edwardcapriolo/hive_test)- Unit test framework for hive and hive-service
-
+* [Cloudera Impala](http://impala.io/)
+* [Presto](http://prestodb.io/)
+* [Apache Tajo](http://tajo.apache.org/)
 * [Apache Drill](http://incubator.apache.org/)
 
 ## Workflow, Lifecycle and Governance
