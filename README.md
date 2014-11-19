@@ -41,7 +41,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Kiji Project](http://www.kiji.org/)
 * [Genie](https://github.com/Netflix/genie) - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
 * [Kylin](http://www.kylin.io/) - Kylin is an open source Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets.
-* [Crunch](https://github.com/jondot) - Crunch – Go-based toolkit for ETL and feature extraction on Hadoop 
+* [Crunch](https://github.com/jondot/crunch) - Crunch – Go-based toolkit for ETL and feature extraction on Hadoop 
 
 ## YARN
 
