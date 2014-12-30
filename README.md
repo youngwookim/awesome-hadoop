@@ -262,6 +262,8 @@ Various resources, such as books, websites and articles.
 * [HBase: The Definitive Guide](http://shop.oreilly.com/product/0636920014348.do)
 * [Programming Pig](http://shop.oreilly.com/product/0636920018087.do)
 * [Programming Hive](http://shop.oreilly.com/product/0636920023555.do)
+* [Hadoop in Practice, Second Edition](http://www.manning.com/holmes2/)
+* [Hadoop in Action, Second Edition](http://www.manning.com/lam2/)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
