@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Awesome Hadoop : A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Awesome Hadoop</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/youngwookim/awesome-hadoop">View on GitHub</a>
+
+          <h1 id="project_title">Awesome Hadoop</h1>
+          <h2 id="project_tagline">A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/youngwookim/awesome-hadoop/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/youngwookim/awesome-hadoop/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>
+<a id="awesome-hadoop" class="anchor" href="#awesome-hadoop" aria-hidden="true"><span class="octicon octicon-link"></span></a>Awesome Hadoop</h1>
+
+<p>A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by <a href="https://github.com/ziadoz/awesome-php">Awesome PHP</a>, <a href="https://github.com/vinta/awesome-python">Awesome Python</a> and <a href="https://github.com/kahun/awesome-sysadmin">Awesome Sysadmin</a></p>
+
+<ul>
+<li>
+<a href="#awesome-hadoop">Awesome Hadoop</a>
+
+<ul>
+<li><a href="#hadoop">Hadoop</a></li>
+<li><a href="#yarn">YARN</a></li>
+<li><a href="#nosql">NoSQL</a></li>
+<li><a href="#sql-on-hadoop">SQL on Hadoop</a></li>
+<li><a href="#workflow_lifecycle_and_Governance">Workflow, Lifecycle and Governance</a></li>
+<li><a href="#data-ingestion-and-integration">Data Ingestion and Integration</a></li>
+<li><a href="#dsl">DSL</a></li>
+<li><a href="#libraries-and-tools">Libraries and Tools</a></li>
+<li><a href="#realtime-data-processing">Realtime Data Processing</a></li>
+<li><a href="#distributed_computing_and_programming">Distributed Computing and Programming</a></li>
+<li><a href="#packaging-provisioning-and-monitoring">Packaging, Provisioning and Monitoring</a></li>
+<li><a href="#monitoring">Monitoring</a></li>
+<li><a href="#search">Search</a></li>
+<li><a href="#benchmark">Benchmark</a></li>
+<li><a href="#machine_learning_and_big_data_analytics">Machine learning and Big Data analytics</a></li>
+<li><a href="#misc">Misc.</a></li>
+</ul>
+</li>
+<li>
+<a href="#resources">Resources</a>
+
+<ul>
+<li><a href="#websites">Websites</a></li>
+<li><a href="#presentations">Presentations</a></li>
+<li><a href="#books">Books</a></li>
+</ul>
+</li>
+<li><a href="#other-awesome-lists">Other Awesome Lists</a></li>
+</ul>
+
+<h2>
+<a id="hadoop" class="anchor" href="#hadoop" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hadoop</h2>
+
+<ul>
+<li>
+<a href="http://hadoop.apache.org/">Apache Hadoop</a> - Apache Hadoop</li>
+<li><a href="http://tez.incubator.apache.org/">Apache Tez</a></li>
+<li>
+<a href="http://spatialhadoop.cs.umn.edu/">SpatialHadoop</a> - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. </li>
+<li>
+<a href="http://esri.github.io/gis-tools-for-hadoop/">GIS Tools for Hadoop</a> - Big Data Spatial Analytics for the Hadoop Framework</li>
+<li>
+<a href="https://github.com/elasticsearch/elasticsearch-hadoop">Elasticsearch Hadoop</a> - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.</li>
+<li>
+<a href="https://github.com/klbostee/dumbo">dumbo</a> - Python module that allows you to easily write and run Hadoop programs.</li>
+<li>
+<a href="https://github.com/bwhite/hadoopy">hadoopy</a> - Python MapReduce library written in Cython. </li>
+<li>
+<a href="https://github.com/Yelp/mrjob/">mrjob</a> - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.</li>
+<li>
+<a href="http://pydoop.sourceforge.net/">pydoop</a> - Pydoop is a package that provides a Python API for Hadoop.</li>
+<li>
+<a href="https://github.com/twitter/hdfs-du">hdfs-du</a> - HDFS-DU is an interactive visualization of the Hadoop distributed file system. </li>
+<li>
+<a href="https://github.com/linkedin/white-elephant">White Elephant</a> - Hadoop log aggregator and dashboard</li>
+<li><a href="http://www.kiji.org/">Kiji Project</a></li>
+<li>
+<a href="https://github.com/Netflix/genie">Genie</a> - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.</li>
+<li>
+<a href="http://www.kylin.io/">Kylin</a> - Kylin is an open source Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets.</li>
+<li>
+<a href="https://github.com/jondot/crunch">Crunch</a> - Crunch – Go-based toolkit for ETL and feature extraction on Hadoop </li>
+</ul>
+
+<h2>
+<a id="yarn" class="anchor" href="#yarn" aria-hidden="true"><span class="octicon octicon-link"></span></a>YARN</h2>
+
+<ul>
+<li>
+<a href="http://slider.incubator.apache.org/">Apache Slider</a> - Apache Slider is a project in incubation at the Apache Software Foundation with the goal of making it possible and easy to deploy existing applications onto a YARN cluster.</li>
+<li>
+<a href="http://twill.incubator.apache.org/">Apache Twill</a> - Apache Twill is an abstraction over Apache Hadoop® YARN that reduces the complexity of developing distributed applications, allowing developers to focus more on their application logic.</li>
+<li>
+<a href="https://github.com/clarkyzl/mpich2-yarn">mpich2-yarn</a> - Running MPICH2 on Yarn</li>
+</ul>
+
+<h2>
+<a id="nosql" class="anchor" href="#nosql" aria-hidden="true"><span class="octicon octicon-link"></span></a>NoSQL</h2>
+
+<p><em>Next Generation Databases mostly addressing some of the points: being non-relational, distributed, open-source and horizontally scalable.</em></p>
+
+<ul>
+<li>
+<a href="http://hbase.apache.org">Apache HBase</a> - Apache HBase</li>
+<li>
+<a href="http://phoenix.apache.org/">Apache Phoenix</a> - A SQL skin over HBase</li>
+<li>
+<a href="https://github.com/wbolster/happybase">happybase</a> - A developer-friendly Python library to interact with Apache HBase.</li>
+<li>
+<a href="https://github.com/sentric/hannibal">Hannibal</a> - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.</li>
+<li>
+<a href="https://github.com/VCNC/haeinsa">Haeinsa</a> - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase</li>
+<li>
+<a href="https://github.com/Huawei-Hadoop/hindex">hindex</a> - Secondary Index for HBase</li>
+<li>
+<a href="https://accumulo.apache.org/">Apache Accumulo</a> - The Apache Accumulo™ sorted, distributed key/value store is a robust, scalable, high performance data storage and retrieval system.</li>
+<li>
+<a href="http://opentsdb.net/">OpenTSDB</a> - The Scalable Time Series Database</li>
+<li><a href="http://cassandra.apache.org/">Apache Cassandra</a></li>
+</ul>
+
+<h2>
+<a id="sql-on-hadoop" class="anchor" href="#sql-on-hadoop" aria-hidden="true"><span class="octicon octicon-link"></span></a>SQL on Hadoop</h2>
+
+<p><em>SQL on Hadoop</em></p>
+
+<ul>
+<li><a href="http://hive.apache.org">Apache Hive</a></li>
+<li>Hive Plugins
+
+<ul>
+<li>UDF
+
+<ul>
+<li><a href="http://nexr.github.io/hive-udf/">http://nexr.github.io/hive-udf/</a></li>
+<li><a href="https://github.com/edwardcapriolo/hive_cassandra_udfs">https://github.com/edwardcapriolo/hive_cassandra_udfs</a></li>
+<li><a href="https://github.com/livingsocial/HiveSwarm">https://github.com/livingsocial/HiveSwarm</a></li>
+<li><a href="https://github.com/ThinkBigAnalytics/Hive-Extensions-from-Think-Big-Analytics">https://github.com/ThinkBigAnalytics/Hive-Extensions-from-Think-Big-Analytics</a></li>
+<li><a href="https://github.com/karthkk/udfs">https://github.com/karthkk/udfs</a></li>
+<li>
+<a href="https://github.com/kevinweil/elephant-bird">https://github.com/kevinweil/elephant-bird</a> - Twitter</li>
+<li><a href="https://github.com/lovelysystems/ls-hive">https://github.com/lovelysystems/ls-hive</a></li>
+<li><a href="https://github.com/stewi2/hive-udfs">https://github.com/stewi2/hive-udfs</a></li>
+<li><a href="https://github.com/klout/brickhouse">https://github.com/klout/brickhouse</a></li>
+<li>
+<a href="https://github.com/markgrover/hive-translate">https://github.com/markgrover/hive-translate</a> (PostgreSQL translate())</li>
+<li><a href="https://github.com/deanwampler/HiveUDFs">https://github.com/deanwampler/HiveUDFs</a></li>
+<li>
+<a href="https://github.com/myui/hivemall">https://github.com/myui/hivemall</a> (Machine Learning UDF/UDAF/UDTF)</li>
+<li>
+<a href="https://github.com/edwardcapriolo/hive-geoip">https://github.com/edwardcapriolo/hive-geoip</a> (GeoIP UDF)</li>
+</ul>
+</li>
+<li>Storage Handler
+
+<ul>
+<li><a href="https://github.com/dvasilen/Hive-Cassandra">https://github.com/dvasilen/Hive-Cassandra</a></li>
+<li><a href="https://github.com/yc-huang/Hive-mongo">https://github.com/yc-huang/Hive-mongo</a></li>
+<li><a href="https://github.com/balshor/gdata-storagehandler">https://github.com/balshor/gdata-storagehandler</a></li>
+<li><a href="https://github.com/karthkk/hive-hbase-json">https://github.com/karthkk/hive-hbase-json</a></li>
+<li><a href="https://github.com/sunsuk7tp/hive-hbase-integration">https://github.com/sunsuk7tp/hive-hbase-integration</a></li>
+<li><a href="https://bitbucket.org/rodrigopr/redisstoragehandler">https://bitbucket.org/rodrigopr/redisstoragehandler</a></li>
+<li><a href="https://github.com/zhuguangbin/HiveJDBCStorageHanlder">https://github.com/zhuguangbin/HiveJDBCStorageHanlder</a></li>
+<li><a href="https://github.com/chimpler/hive-solr">https://github.com/chimpler/hive-solr</a></li>
+<li><a href="https://github.com/bfemiano/accumulo-hive-storage-manager">https://github.com/bfemiano/accumulo-hive-storage-manager</a></li>
+</ul>
+</li>
+<li>SerDe
+
+<ul>
+<li><a href="https://github.com/rcongiu/Hive-JSON-Serde">https://github.com/rcongiu/Hive-JSON-Serde</a></li>
+<li><a href="https://github.com/mochi/hive-json-serde">https://github.com/mochi/hive-json-serde</a></li>
+<li><a href="https://github.com/ogrodnek/csv-serde">https://github.com/ogrodnek/csv-serde</a></li>
+<li><a href="https://github.com/parag/HiveJsonSerde">https://github.com/parag/HiveJsonSerde</a></li>
+<li><a href="https://github.com/johanoskarsson/hive-json-serde">https://github.com/johanoskarsson/hive-json-serde</a></li>
+<li>
+<a href="https://github.com/electrum/hive-serde">https://github.com/electrum/hive-serde</a> - JSON</li>
+<li><a href="https://github.com/karthkk/hive-hbase-json">https://github.com/karthkk/hive-hbase-json</a></li>
+</ul>
+</li>
+<li>Libraries and tools
+
+<ul>
+<li><a href="https://github.com/forward/rbhive">https://github.com/forward/rbhive</a></li>
+<li><a href="https://github.com/synctree/activerecord-hive-adapter">https://github.com/synctree/activerecord-hive-adapter</a></li>
+<li><a href="https://github.com/hrp/sequel-hive-adapter">https://github.com/hrp/sequel-hive-adapter</a></li>
+<li><a href="https://github.com/forward/node-hive">https://github.com/forward/node-hive</a></li>
+<li><a href="https://github.com/recruitcojp/WebHive">https://github.com/recruitcojp/WebHive</a></li>
+<li>
+<a href="https://github.com/tagomoris/shib">shib</a> - WebUI for query engines: Hive and Presto</li>
+<li>
+<a href="https://github.com/bmuller/clive">clive</a> - Clojure library for interacting with Hive via Thrift</li>
+<li><a href="http://www.phphiveadmin.net/">http://www.phphiveadmin.net/</a></li>
+<li><a href="https://github.com/anjuke/hwi">https://github.com/anjuke/hwi</a></li>
+<li><a href="https://code.google.com/a/apache-extras.org/p/hipy/">https://code.google.com/a/apache-extras.org/p/hipy/</a></li>
+<li>
+<a href="https://github.com/dmorel/Thrift-API-HiveClient2">https://github.com/dmorel/Thrift-API-HiveClient2</a> (Perl - HiveServer2)</li>
+<li>
+<a href="https://github.com/dropbox/PyHive">PyHive</a> - Python interface to Hive and Presto</li>
+<li><a href="https://github.com/recruitcojp/OdbcHive">https://github.com/recruitcojp/OdbcHive</a></li>
+<li><a href="https://bitbucket.org/vadim/hive-sharp">Hive-Sharp</a></li>
+<li>
+<a href="https://github.com/klarna/HiveRunner">HiveRunner</a> - An Open Source unit test framework for hadoop hive queries based on JUnit4</li>
+<li>
+<a href="https://github.com/kawaa/Beetest">Beetest</a> - A super simple utility for testing Apache Hive scripts locally for non-Java developers.</li>
+<li>
+<a href="https://github.com/edwardcapriolo/hive_test">Hive_test</a>- Unit test framework for hive and hive-service</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="http://impala.io/">Cloudera Impala</a></li>
+<li><a href="http://prestodb.io/">Presto</a></li>
+<li><a href="http://tajo.apache.org/">Apache Tajo</a></li>
+<li><a href="http://incubator.apache.org/">Apache Drill</a></li>
+</ul>
+
+<h2>
+<a id="workflow-lifecycle-and-governance" class="anchor" href="#workflow-lifecycle-and-governance" aria-hidden="true"><span class="octicon octicon-link"></span></a>Workflow, Lifecycle and Governance</h2>
+
+<ul>
+<li>
+<a href="http://oozie.apche.org">Apache Oozie</a> - Apache Oozie</li>
+<li><a href="http://azkaban.github.io/">Azkaban</a></li>
+<li>
+<a href="http://falcon.incubator.apache.org/">Apache Falcon</a> - Data management and processing platform</li>
+</ul>
+
+<h2>
+<a id="data-ingestion-and-integration" class="anchor" href="#data-ingestion-and-integration" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Ingestion and Integration</h2>
+
+<ul>
+<li>
+<a href="http://flume.apache.org">Apache Flume</a> - Apache Flume</li>
+<li>Flume Plugins
+
+<ul>
+<li><a href="https://github.com/leonlee/flume-ng-mongodb-sink">Flume MongoDB Sink</a></li>
+<li><a href="https://github.com/btoddb/flume-ng-hornetq-channel">Flume HornetQ Channel</a></li>
+<li><a href="https://github.com/leonlee/flume-ng-msgpack-source">Flume MessagePack Source</a></li>
+<li><a href="https://github.com/jcustenborder/flume-ng-rabbitmq">Flume RabbitMQ source and sink</a></li>
+<li><a href="https://github.com/whitepages/flume-udp-source">Flume UDP Source</a></li>
+<li>
+<a href="https://github.com/Stratio/stratio-ingestion">Stratio Ingestion</a> - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC</li>
+<li><a href="https://github.com/relistan/flume-serializers">Flume Custom Serializers</a></li>
+<li><a href="https://github.com/jrkinley/flume-interceptor-analytics">Real-time analytics in Apache Flume</a></li>
+<li><a href="https://github.com/marksl/DotNetFlumeNG.Clients">.Net FlumeNG Clients</a></li>
+</ul>
+</li>
+<li>
+<a href="https://github.com/Netflix/suro">Suro</a> - Netflix's distributed Data Pipeline</li>
+<li>
+<a href="http://sqoop.apache.org">Apache Sqoop</a> - Apache Sqoop</li>
+<li>
+<a href="http://kafka.apache.org/">Apache Kafka</a> - Apache Kafka</li>
+</ul>
+
+<h2>
+<a id="dsl" class="anchor" href="#dsl" aria-hidden="true"><span class="octicon octicon-link"></span></a>DSL</h2>
+
+<p>**</p>
+
+<ul>
+<li>
+<a href="http://pig.apache.org">Apache Pig</a> - Apache Pig</li>
+<li>
+<a href="http://datafu.incubator.apache.org/">Apache DataFu</a> - A collection of libraries for working with large-scale data in Hadoop</li>
+<li>
+<a href="https://github.com/Ganglion/varaha">vahara</a> - Machine learning and natural language processing with Apache Pig</li>
+<li>
+<a href="https://github.com/packetloop/packetpig">packetpig</a> - Open Source Big Data Security Analytics</li>
+<li>
+<a href="https://github.com/mozilla-metrics/akela">akela</a> - Mozilla's utility library for Hadoop, HBase, Pig, etc.</li>
+<li>
+<a href="http://seqpig.sourceforge.net/">seqpig</a> - Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop </li>
+<li>
+<a href="https://github.com/Netflix/Lipstick">Lipstick</a> - Pig workflow visualization tool. <a href="http://techblog.netflix.com/2013/06/introducing-lipstick-on-apache-pig.html">Introducing Lipstick on A(pache) Pig</a>
+</li>
+<li>
+<a href="https://github.com/Netflix/PigPen">PigPen</a> - PigPen is map-reduce for Clojure, or distributed Clojure. It compiles to Apache Pig, but you don't need to know much about Pig to use it.</li>
+</ul>
+
+<h2>
+<a id="libraries-and-tools" class="anchor" href="#libraries-and-tools" aria-hidden="true"><span class="octicon octicon-link"></span></a>Libraries and Tools</h2>
+
+<ul>
+<li>
+<a href="http://kitesdk.org/">Kite Software Development Kit</a> - A set of libraries, tools, examples, and documentation</li>
+<li>
+<a href="https://github.com/hortonworks/gohadoop">gohadoop</a> - Native go clients for Apache Hadoop YARN.</li>
+<li>
+<a href="http://gethue.com/">Hue</a> - A Web interface for analyzing data with Apache Hadoop.</li>
+<li><a href="http://zeppelin-project.org/">Zeppelin</a></li>
+<li>
+<a href="https://github.com/impetus-opensource/jumbune">Jumbune</a> - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs.</li>
+<li><a href="http://thrift.apache.org/">Apache Thrift</a></li>
+<li>
+<a href="http://avro.apache.org/">Apache Avro</a> - Apache Avro is a data serialization system.</li>
+<li>
+<a href="https://github.com/kevinweil/elephant-bird">Elephant Bird</a> - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.</li>
+<li><a href="http://projects.spring.io/spring-hadoop/">Spring for Apache Hadoop</a></li>
+</ul>
+
+<h2>
+<a id="realtime-data-processing" class="anchor" href="#realtime-data-processing" aria-hidden="true"><span class="octicon octicon-link"></span></a>Realtime Data Processing</h2>
+
+<ul>
+<li><a href="https://storm.incubator.apache.org/">Apache Storm</a></li>
+<li><a href="http://samza.incubator.apache.org/">Apache Samza</a></li>
+</ul>
+
+<h2>
+<a id="distributed-computing-and-programming" class="anchor" href="#distributed-computing-and-programming" aria-hidden="true"><span class="octicon octicon-link"></span></a>Distributed Computing and Programming</h2>
+
+<ul>
+<li><a href="http://spark.apache.org/">Apache Spark</a></li>
+<li><a href="http://crunch.apache.org">Apache Crunch</a></li>
+<li>
+<a href="http://www.cascading.org/">Cascading</a> - Cascading is the proven application development platform for building data applications on Hadoop.</li>
+<li>
+<a href="http://flink.incubator.apache.org/">Apache Flink</a> - Apache Flink is a platform for efficient, distributed, general-purpose data processing.</li>
+</ul>
+
+<h2>
+<a id="packaging-provisioning-and-monitoring" class="anchor" href="#packaging-provisioning-and-monitoring" aria-hidden="true"><span class="octicon octicon-link"></span></a>Packaging, Provisioning and Monitoring</h2>
+
+<ul>
+<li>
+<a href="http://bigtop.apache.org/">Apache Bigtop</a> - Apache Bigtop: Packaging and tests of the Apache Hadoop ecosystem </li>
+<li>
+<a href="http://ambari.apache.org/">Apache Ambari</a> - Apache Ambari</li>
+<li><a href="http://ganglia.sourceforge.net/">Ganglia Monitoring System</a></li>
+<li>
+<a href="https://github.com/impetus-opensource/ankush">ankush</a> - A big data cluster management tool that creates and manages clusters of different technologies.</li>
+<li>
+<a href="http://zookeeper.apache.org/">Apache Zookeeper</a> - Apache Zookeeper</li>
+<li>
+<a href="http://curator.apache.org/">Apache Curator</a> - ZooKeeper client wrapper and rich ZooKeeper framework</li>
+<li>
+<a href="https://github.com/buildoop/buildoop">Buildoop</a> - Hadoop Ecosystem Builder</li>
+<li>
+<a href="http://deploop.github.io/">Deploop</a> - The Hadoop Deploy System</li>
+</ul>
+
+<h2>
+<a id="search" class="anchor" href="#search" aria-hidden="true"><span class="octicon octicon-link"></span></a>Search</h2>
+
+<ul>
+<li><a href="http://www.elasticsearch.org/">ElasticSearch</a></li>
+<li><a href="http://lucene.apache.org/solr/">Apache Solr</a></li>
+<li>
+<a href="http://www.senseidb.com/">SenseiDB</a> - Open-source, distributed, realtime, semi-structured database</li>
+</ul>
+
+<h2>
+<a id="benchmark" class="anchor" href="#benchmark" aria-hidden="true"><span class="octicon octicon-link"></span></a>Benchmark</h2>
+
+<p>**</p>
+
+<ul>
+<li><a href="https://amplab.cs.berkeley.edu/benchmark/">Big Data Benchmark</a></li>
+<li><a href="https://github.com/intel-hadoop/HiBench">HiBench</a></li>
+<li><a href="https://github.com/intel-hadoop/Big-Bench">Big-Bench</a></li>
+<li><a href="https://github.com/yhuai/hive-benchmarks">hive-benchmarks</a></li>
+<li>
+<a href="https://github.com/cartershanklin/hive-testbench">hive-testbench</a> - Testbench for experimenting with Apache Hive at any data scale.</li>
+</ul>
+
+<h2>
+<a id="machine-learning-and-big-data-analytics" class="anchor" href="#machine-learning-and-big-data-analytics" aria-hidden="true"><span class="octicon octicon-link"></span></a>Machine learning and Big Data analytics</h2>
+
+<ul>
+<li><a href="http://mahout.apache.org">Apache Maout</a></li>
+<li>
+<a href="https://github.com/cloudera/oryx">Cloudera Oryx</a> - The Oryx open source project provides simple, real-time large-scale machine learning / predictive analytics infrastructure.</li>
+<li>
+<a href="https://spark.apache.org/mllib/">MLlib</a> - MLlib is Apache Spark's scalable machine learning library.</li>
+<li>
+<a href="http://www.r-project.org/">R</a> - R is a free software environment for statistical computing and graphics.</li>
+<li>
+<a href="http://nexr.github.io/RHive/">RHive</a> - RHive is an R extension facilitating distributed computing via Apache Hive.</li>
+<li><a href="https://github.com/RevolutionAnalytics/RHadoop/wiki">RHadoop</a></li>
+</ul>
+
+<h2>
+<a id="misc" class="anchor" href="#misc" aria-hidden="true"><span class="octicon octicon-link"></span></a>Misc.</h2>
+
+<h1>
+<a id="resources" class="anchor" href="#resources" aria-hidden="true"><span class="octicon octicon-link"></span></a>Resources</h1>
+
+<p>Various resources, such as books, websites and articles.</p>
+
+<h2>
+<a id="websites" class="anchor" href="#websites" aria-hidden="true"><span class="octicon octicon-link"></span></a>Websites</h2>
+
+<p><em>Useful websites and articles</em></p>
+
+<ul>
+<li><a href="http://www.hadoopweekly.com/">Hadoop Weekly</a></li>
+<li><a href="http://hadoopecosystemtable.github.io/">The Hadoop Ecosystem Table</a></li>
+<li><a href="http://www.slideshare.net/RommelGarcia2/hadoop-1x-vs-2">Hadoop 1.x vs 2</a></li>
+<li><a href="http://www.socc2013.org/home/program/a5-vavilapalli.pdf">Apache Hadoop YARN: Yet Another Resource Negotiator</a></li>
+<li><a href="http://hortonworks.com/blog/introducing-apache-hadoop-yarn/">Introducing Apache Hadoop YARN</a></li>
+<li><a href="http://hortonworks.com/blog/apache-hadoop-yarn-background-and-an-overview/">Apache Hadoop YARN - Background and an Overview</a></li>
+<li><a href="http://hortonworks.com/blog/apache-hadoop-yarn-concepts-and-applications/">Apache Hadoop YARN - Concepts and Applications</a></li>
+<li><a href="http://hortonworks.com/blog/apache-hadoop-yarn-resourcemanager/">Apache Hadoop YARN - ResourceManager</a></li>
+<li><a href="http://hortonworks.com/blog/apache-hadoop-yarn-nodemanager/">Apache Hadoop YARN - NodeManager</a></li>
+<li><a href="http://blog.cloudera.com/blog/2013/11/migrating-to-mapreduce-2-on-yarn-for-users/">Migrating to MapReduce 2 on YARN (For Users)</a></li>
+<li><a href="http://blog.cloudera.com/blog/2013/11/migrating-to-mapreduce-2-on-yarn-for-operators/">Migrating to MapReduce 2 on YARN (For Operators)</a></li>
+<li><a href="http://blogs.developerforce.com/engineering/2013/03/hadoop-use-cases-at-salesforce-com.html">Hadoop and Big Data: Use Cases at Salesforce.com</a></li>
+<li><a href="https://blogs.apache.org/bigtop/entry/all_you_wanted_to_know">All you wanted to know about Hadoop, but were too afraid to ask: genealogy of elephants.</a></li>
+<li><a href="https://blogs.apache.org/bigtop/entry/bigtop_and_why_should_you">What is Bigtop, and Why Should You Care?</a></li>
+<li><a href="http://wiki.apache.org/hadoop/Distributions%20and%20Commercial%20Support">Hadoop - Distributions and Commercial Support</a></li>
+<li><a href="http://hakunamapdata.com/ganglia-configuration-for-a-small-hadoop-cluster-and-some-troubleshooting/">Ganglia configuration for a small Hadoop cluster and some troubleshooting</a></li>
+<li>
+<a href="http://hadoopilluminated.com/">Hadoop illuminated</a> - Open Source Hadoop Book</li>
+<li><a href="http://nosql-database.org/">NoSQL Database</a></li>
+<li><a href="http://www.qubole.com/hive-best-practices/">10 Best Practices for Apache Hive</a></li>
+<li><a href="http://hortonworks.com/blog/apache-hadoop-operations-scale/">Hadoop Operations at Scale</a></li>
+</ul>
+
+<h2>
+<a id="presentations" class="anchor" href="#presentations" aria-hidden="true"><span class="octicon octicon-link"></span></a>Presentations</h2>
+
+<ul>
+<li><a href="http://www.slideshare.net/allenwittenauer/aw-apachecon2009-15342917">Hadoop 24/7</a></li>
+<li><a href="http://www.slideshare.net/mikejf12/an-example-apache-hadoop-yarn-upgrade">An example Apache Hadoop Yarn upgrade</a></li>
+<li><a href="http://www.slideshare.net/AdamKawa/hadoop-intheoryandpractice">Apache Hadoop In Theory And Practice</a></li>
+<li><a href="http://www.slideshare.net/allenwittenauer/2013-hadoopsummitemea">Hadoop Operations at LinkedIn</a></li>
+<li><a href="http://www.slideshare.net/allenwittenauer/2012-lihadoopperf">Hadoop Performance at LinkedIn</a></li>
+<li><a href="http://www.slideshare.net/JanosMatyas/docker-based-hadoop-provisioning">Docker based Hadoop provisioning</a></li>
+</ul>
+
+<h2>
+<a id="books" class="anchor" href="#books" aria-hidden="true"><span class="octicon octicon-link"></span></a>Books</h2>
+
+<ul>
+<li><a href="http://www.amazon.com/gp/product/1449311520/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1449311520&amp;linkCode=as2&amp;tag=matratsblo-20">Hadoop: The Definitive Guide</a></li>
+<li><a href="http://www.amazon.com/gp/product/1449327052/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1449327052&amp;linkCode=as2&amp;tag=matratsblo-20">Hadoop Operations</a></li>
+<li><a href="http://www.amazon.com/dp/0321934504?tag=matratsblo-20">Apache Hadoop Yarn</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920014348.do">HBase: The Definitive Guide</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920018087.do">Programming Pig</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920023555.do">Programming Hive</a></li>
+<li><a href="http://www.manning.com/holmes2/">Hadoop in Practice, Second Edition</a></li>
+<li><a href="http://www.manning.com/lam2/">Hadoop in Action, Second Edition</a></li>
+</ul>
+
+<h1>
+<a id="other-awesome-lists" class="anchor" href="#other-awesome-lists" aria-hidden="true"><span class="octicon octicon-link"></span></a>Other Awesome Lists</h1>
+
+<p>Other amazingly awesome lists can be found in the <a href="https://github.com/bayandin/awesome-awesomeness">awesome-awesomeness</a> list.</p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Awesome Hadoop maintained by <a href="https://github.com/youngwookim">youngwookim</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
