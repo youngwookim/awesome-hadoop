@@ -136,7 +136,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.incubator.apache.org/) - Data management and processing platform
 * [Apache NiFi](https://nifi.incubator.apache.org/) - A dataflow system
-* [Airflow](http://pythonhosted.org/airflow/index.html) - Airflow is a platform to programmaticaly author, schedule and monitor data pipelines
+* [AirFlow](https://github.com/airbnb/airflow) - AirFlow is a platform to programmaticaly author, schedule and monitor data pipelines
 
 ## Data Ingestion and Integration
 
