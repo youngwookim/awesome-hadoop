@@ -269,6 +269,7 @@ Various resources, such as books, websites and articles.
 
 ## Presentations
 
+* [Hadoop Summit Presentations](http://www.slideshare.net/Hadoop_Summit) - Slide decks from Hadoop Summit
 * [Hadoop 24/7](http://www.slideshare.net/allenwittenauer/aw-apachecon2009-15342917)
 * [An example Apache Hadoop Yarn upgrade](http://www.slideshare.net/mikejf12/an-example-apache-hadoop-yarn-upgrade)
 * [Apache Hadoop In Theory And Practice](http://www.slideshare.net/AdamKawa/hadoop-intheoryandpractice)
