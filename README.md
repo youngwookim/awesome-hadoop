@@ -80,7 +80,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
  
 ## Workflow, Lifecycle and Governance
 
-* [Apache Oozie](http://oozie.apche.org) - Apache Oozie
+* [Apache Oozie](http://oozie.apache.org) - Apache Oozie
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.incubator.apache.org/) - Data management and processing platform
 * [Apache NiFi](https://nifi.incubator.apache.org/) - A dataflow system
