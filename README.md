@@ -126,6 +126,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Distributed Computing and Programming
 
 * [Apache Spark](http://spark.apache.org/)
+ * [Spark Packages](http://spark-packages.org/) - A community index of packages for Apache Spark
+ * [SparkHub](http://sparkhub.databricks.com/) - A community site for Apache Spark
 * [Apache Crunch](http://crunch.apache.org)
 * [Cascading](http://www.cascading.org/) - Cascading is the proven application development platform for building data applications on Hadoop.
 * [Apache Flink](http://flink.incubator.apache.org/) - Apache Flink is a platform for efficient, distributed, general-purpose data processing.
