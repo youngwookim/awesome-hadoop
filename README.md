@@ -56,7 +56,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 *Next Generation Databases mostly addressing some of the points: being non-relational, distributed, open-source and horizontally scalable.*
 
 * [Apache HBase](http://hbase.apache.org) - Apache HBase
-* [Apache Phoenix](http://phoenix.apache.org/) - A SQL skin over HBase
+* [Apache Phoenix](http://phoenix.apache.org/) - A SQL skin over HBase supporting secondary indices
 * [happybase](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase.
 * [Hannibal](https://github.com/sentric/hannibal) - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.
 * [Haeinsa](https://github.com/VCNC/haeinsa) - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase
@@ -69,6 +69,9 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 *SQL on Hadoop*
 
 * [Apache Hive](http://hive.apache.org)
+* [Apache Phoenix](http://phoenix.apache.org) A SQL skin over HBase supporting secondary indices
+* [Pivotal HAWQ](http://pivotal.io/big-data/pivotal-hawq) - Parallel Postgres on Hadoop
+* [Lingual](http://www.cascading.org/projects/lingual/) - SQL interface for Cascading (MR/Tez job generator)
 * [Cloudera Impala](http://impala.io/)
 * [Presto](http://prestodb.io/) - Distributed SQL Query Engine for Big Data. Open sourced by Facebook.
 * [Apache Tajo](http://tajo.apache.org/) - Data warehouse system for Apache Hadoop
@@ -77,6 +80,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Data Management
 
 * [Apache Calcite](http://calcite.incubator.apache.org/) - A Dynamic Data Management Framework
+* [Apache Atlas](http://atlas.incubator.apache.org/) - Metadata tagging & lineage capture suppoting complex business data taxonomies
  
 ## Workflow, Lifecycle and Governance
 
@@ -85,6 +89,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Falcon](http://falcon.incubator.apache.org/) - Data management and processing platform
 * [Apache NiFi](https://nifi.incubator.apache.org/) - A dataflow system
 * [AirFlow](https://github.com/airbnb/airflow) - AirFlow is a platform to programmaticaly author, schedule and monitor data pipelines
+* [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
 ## Data Ingestion and Integration
 
@@ -122,6 +127,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Storm](https://storm.incubator.apache.org/)
 * [Apache Samza](http://samza.incubator.apache.org/)
+* [Apache Spark](http://spark.apache.org/streaming/)
+* [Apache Flink](https://flink.apache.org/features.html#unified-stream-amp-batch-processing) - Apache Flink is a platform for efficient, distributed, general-purpose data processing. It supports exactly once stream processing.
 
 ## Distributed Computing and Programming
 
@@ -173,8 +180,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Oryx 2](https://github.com/OryxProject/oryx) - Lambda architecture on Spark, Kafka for real-time large scale machine learning
 * [MLlib](https://spark.apache.org/mllib/) - MLlib is Apache Spark's scalable machine learning library.
 * [R](http://www.r-project.org/) - R is a free software environment for statistical computing and graphics.
-* [RHive](http://nexr.github.io/RHive/) - RHive is an R extension facilitating distributed computing via Apache Hive.
-* [RHadoop](https://github.com/RevolutionAnalytics/RHadoop/wiki)
+* [RHadoop](https://github.com/RevolutionAnalytics/RHadoop/wiki) including RHDFS, RHBase, RMR2, plyrmr, and RHive
 * [Apache Lens](http://lens.incubator.apache.org/)
 
 ## Misc.
