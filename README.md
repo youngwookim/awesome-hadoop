@@ -180,7 +180,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Oryx 2](https://github.com/OryxProject/oryx) - Lambda architecture on Spark, Kafka for real-time large scale machine learning
 * [MLlib](https://spark.apache.org/mllib/) - MLlib is Apache Spark's scalable machine learning library.
 * [R](http://www.r-project.org/) - R is a free software environment for statistical computing and graphics.
-* [RHadoop](https://github.com/RevolutionAnalytics/RHadoop/wiki) including RHDFS, RHBase, RMR2, plyrmr, and RHive
+* [RHadoop](https://github.com/RevolutionAnalytics/RHadoop/wiki) including RHDFS, RHBase, RMR2, plyrmr
+* [RHive](https://github.com/nexr/RHive) RHive, for launching Hive queries from R
 * [Apache Lens](http://lens.incubator.apache.org/)
 
 ## Misc.
