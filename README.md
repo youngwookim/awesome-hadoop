@@ -160,6 +160,10 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [SenseiDB](http://www.senseidb.com/) - Open-source, distributed, realtime, semi-structured database
 * [Banana](https://github.com/LucidWorks/banana) - Kibana port for Apache Solr
 
+## Search Engine Framework
+
+* [Apache Nutch](http://nutch.apache.org/) - Apache Nutch is a highly extensible and scalable open source web crawler software project.
+
 ## Security
 
 * [Apache Ranger](http://ranger.incubator.apache.org/) - Ranger is a framework to enable, monitor and manage comprehensive data security across the Hadoop platform.
@@ -277,6 +281,7 @@ Various resources, such as books, websites and articles.
 * [10 Best Practices for Apache Hive](http://www.qubole.com/hive-best-practices/)
 * [Hadoop Operations at Scale](http://hortonworks.com/blog/apache-hadoop-operations-scale/)
 * [AWS BigData Blog](http://blogs.aws.amazon.com/bigdata/)
+* [Hadoop360](http://www.hadoop360.com/)
 
 ## Presentations
 
