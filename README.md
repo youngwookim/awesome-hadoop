@@ -30,10 +30,10 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Hadoop
 
 * [Apache Hadoop](http://hadoop.apache.org/) - Apache Hadoop
-* [Apache Tez](http://tez.incubator.apache.org/)
+* [Apache Tez](http://tez.apache.org/)
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. 
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
-* [Elasticsearch Hadoop](https://github.com/elasticsearch/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
+* [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
 * [dumbo](https://github.com/klbostee/dumbo) - Python module that allows you to easily write and run Hadoop programs.
 * [hadoopy](https://github.com/bwhite/hadoopy) - Python MapReduce library written in Cython. 
 * [mrjob](https://github.com/Yelp/mrjob/) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
@@ -44,13 +44,13 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Genie](https://github.com/Netflix/genie) - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
 * [Apache Kylin](http://kylin.incubator.apache.org/) - Apache Kylin is an open source Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets
 * [Crunch](https://github.com/jondot/crunch) - Go-based toolkit for ETL and feature extraction on Hadoop
-* [Apache Ignite](http://ignite.incubator.apache.org/) - Distributed in-memory platform
+* [Apache Ignite](http://ignite.apache.org/) - Distributed in-memory platform
 
 ## YARN
 
 * [Apache Slider](http://slider.incubator.apache.org/) - Apache Slider is a project in incubation at the Apache Software Foundation with the goal of making it possible and easy to deploy existing applications onto a YARN cluster.
 * [Apache Twill](http://twill.incubator.apache.org/) - Apache Twill is an abstraction over Apache Hadoop® YARN that reduces the complexity of developing distributed applications, allowing developers to focus more on their application logic.
-* [mpich2-yarn](https://github.com/clarkyzl/mpich2-yarn) - Running MPICH2 on Yarn
+* [mpich2-yarn](https://github.com/alibaba/mpich2-yarn) - Running MPICH2 on Yarn
 
 ## NoSQL
 *Next Generation Databases mostly addressing some of the points: being non-relational, distributed, open-source and horizontally scalable.*
@@ -70,24 +70,24 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Hive](http://hive.apache.org)
 * [Apache Phoenix](http://phoenix.apache.org) A SQL skin over HBase supporting secondary indices
-* [Pivotal HAWQ](http://pivotal.io/big-data/pivotal-hawq) - Parallel Postgres on Hadoop
+* [Pivotal HAWQ](http://pivotal.io/big-data/pivotal-hdb) - Parallel Postgres on Hadoop
 * [Lingual](http://www.cascading.org/projects/lingual/) - SQL interface for Cascading (MR/Tez job generator)
 * [Cloudera Impala](http://impala.io/)
-* [Presto](http://prestodb.io/) - Distributed SQL Query Engine for Big Data. Open sourced by Facebook.
+* [Presto](https://prestodb.io/) - Distributed SQL Query Engine for Big Data. Open sourced by Facebook.
 * [Apache Tajo](http://tajo.apache.org/) - Data warehouse system for Apache Hadoop
 * [Apache Drill](http://incubator.apache.org/)
 
 ## Data Management
 
-* [Apache Calcite](http://calcite.incubator.apache.org/) - A Dynamic Data Management Framework
+* [Apache Calcite](http://calcite.apache.org/) - A Dynamic Data Management Framework
 * [Apache Atlas](http://atlas.incubator.apache.org/) - Metadata tagging & lineage capture suppoting complex business data taxonomies
  
 ## Workflow, Lifecycle and Governance
 
 * [Apache Oozie](http://oozie.apache.org) - Apache Oozie
 * [Azkaban](http://azkaban.github.io/)
-* [Apache Falcon](http://falcon.incubator.apache.org/) - Data management and processing platform
-* [Apache NiFi](https://nifi.incubator.apache.org/) - A dataflow system
+* [Apache Falcon](http://falcon.apache.org/) - Data management and processing platform
+* [Apache NiFi](http://nifi.apache.org/) - A dataflow system
 * [AirFlow](https://github.com/airbnb/airflow) - AirFlow is a platform to programmaticaly author, schedule and monitor data pipelines
 * [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
@@ -103,7 +103,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Pig](http://pig.apache.org) - Apache Pig
 * [Apache DataFu](http://datafu.incubator.apache.org/) - A collection of libraries for working with large-scale data in Hadoop
-* [vahara](https://github.com/Ganglion/varaha) - Machine learning and natural language processing with Apache Pig
+* [vahara](https://github.com/thedatachef/varaha) - Machine learning and natural language processing with Apache Pig
 * [packetpig](https://github.com/packetloop/packetpig) - Open Source Big Data Security Analytics
 * [akela](https://github.com/mozilla-metrics/akela) - Mozilla's utility library for Hadoop, HBase, Pig, etc.
 * [seqpig](http://seqpig.sourceforge.net/) - Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop 
@@ -119,15 +119,15 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Jumbune](https://github.com/impetus-opensource/jumbune) - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs.
 * [Apache Thrift](http://thrift.apache.org/)
 * [Apache Avro](http://avro.apache.org/) - Apache Avro is a data serialization system.
-* [Elephant Bird](https://github.com/kevinweil/elephant-bird) - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
+* [Elephant Bird](https://github.com/twitter/elephant-bird) - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
 * [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/)
 * [hdfs - A native go client for HDFS](https://github.com/colinmarc/hdfs)
 * [Oozie Eclipse Plugin](https://marketplace.eclipse.org/content/oozie-eclipse-plugin) - A graphical editor for editing Apache Oozie workflows inside Eclipse.
 
 ## Realtime Data Processing
 
-* [Apache Storm](https://storm.incubator.apache.org/)
-* [Apache Samza](http://samza.incubator.apache.org/)
+* [Apache Storm](http://storm.apache.org/)
+* [Apache Samza](http://samza.apache.org/)
 * [Apache Spark](http://spark.apache.org/streaming/)
 * [Apache Flink](https://flink.apache.org/features.html#unified-stream-amp-batch-processing) - Apache Flink is a platform for efficient, distributed, general-purpose data processing. It supports exactly once stream processing.
 
@@ -135,10 +135,10 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Spark](http://spark.apache.org/)
  * [Spark Packages](http://spark-packages.org/) - A community index of packages for Apache Spark
- * [SparkHub](http://sparkhub.databricks.com/) - A community site for Apache Spark
+ * [SparkHub](https://sparkhub.databricks.com/) - A community site for Apache Spark
 * [Apache Crunch](http://crunch.apache.org)
 * [Cascading](http://www.cascading.org/) - Cascading is the proven application development platform for building data applications on Hadoop.
-* [Apache Flink](http://flink.incubator.apache.org/) - Apache Flink is a platform for efficient, distributed, general-purpose data processing.
+* [Apache Flink](http://flink.apache.org/) - Apache Flink is a platform for efficient, distributed, general-purpose data processing.
 
 ## Packaging, Provisioning and Monitoring
 
@@ -148,14 +148,14 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [ankush](https://github.com/impetus-opensource/ankush) - A big data cluster management tool that creates and manages clusters of different technologies.
 * [Apache Zookeeper](http://zookeeper.apache.org/) - Apache Zookeeper
 * [Apache Curator](http://curator.apache.org/) - ZooKeeper client wrapper and rich ZooKeeper framework
-* [Buildoop](https://github.com/buildoop/buildoop) - Hadoop Ecosystem Builder
+* [Buildoop](https://github.com/keedio/buildoop) - Hadoop Ecosystem Builder
 * [Deploop](http://deploop.github.io/) - The Hadoop Deploy System
 * [Jumbune](http://www.jumbune.org/) - An open source MapReduce profiling, MapReduce flow debugging, HDFS data quality validation and Hadoop cluster monitoring tool.
 * [inviso](https://github.com/Netflix/inviso) - Inviso is a lightweight tool that provides the ability to search for Hadoop jobs, visualize the performance, and view cluster utilization.
 
 ## Search
 
-* [ElasticSearch](http://www.elasticsearch.org/)
+* [ElasticSearch](https://www.elastic.co/)
 * [Apache Solr](http://lucene.apache.org/solr/)
 * [SenseiDB](http://www.senseidb.com/) - Open-source, distributed, realtime, semi-structured database
 * [Banana](https://github.com/LucidWorks/banana) - Kibana port for Apache Solr
@@ -174,7 +174,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/)
 * [HiBench](https://github.com/intel-hadoop/HiBench)
-* [Big-Bench](https://github.com/intel-hadoop/Big-Bench)
+* [Big-Bench](https://github.com/intel-hadoop/Big-Data-Benchmark-for-Big-Bench)
 * [hive-benchmarks](https://github.com/yhuai/hive-benchmarks)
 * [hive-testbench](https://github.com/cartershanklin/hive-testbench) - Testbench for experimenting with Apache Hive at any data scale.
 * [YCSB](https://github.com/brianfrankcooper/YCSB) - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems.
@@ -187,7 +187,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [R](http://www.r-project.org/) - R is a free software environment for statistical computing and graphics.
 * [RHadoop](https://github.com/RevolutionAnalytics/RHadoop/wiki) including RHDFS, RHBase, RMR2, plyrmr
 * [RHive](https://github.com/nexr/RHive) RHive, for launching Hive queries from R
-* [Apache Lens](http://lens.incubator.apache.org/)
+* [Apache Lens](http://lens.apache.org/)
 
 ## Misc.
 
@@ -198,7 +198,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * https://github.com/livingsocial/HiveSwarm
      * https://github.com/ThinkBigAnalytics/Hive-Extensions-from-Think-Big-Analytics
      * https://github.com/karthkk/udfs
-     * https://github.com/kevinweil/elephant-bird - Twitter
+     * https://github.com/twitter/elephant-bird - Twitter
      * https://github.com/lovelysystems/ls-hive
      * https://github.com/stewi2/hive-udfs
      * https://github.com/klout/brickhouse
@@ -226,7 +226,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * https://github.com/electrum/hive-serde - JSON
      * https://github.com/karthkk/hive-hbase-json
  * Libraries and tools
-     * https://github.com/forward/rbhive
+     * https://github.com/forward3d/rbhive
      * https://github.com/synctree/activerecord-hive-adapter
      * https://github.com/hrp/sequel-hive-adapter
      * https://github.com/forward/node-hive
@@ -249,7 +249,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
  * [Flume MessagePack Source](https://github.com/leonlee/flume-ng-msgpack-source)
  * [Flume RabbitMQ source and sink](https://github.com/jcustenborder/flume-ng-rabbitmq)
  * [Flume UDP Source](https://github.com/whitepages/flume-udp-source)
- * [Stratio Ingestion](https://github.com/Stratio/stratio-ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
+ * [Stratio Ingestion](https://github.com/Stratio/Ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
  * [Flume Custom Serializers](https://github.com/relistan/flume-serializers)
  * [Real-time analytics in Apache Flume](https://github.com/jrkinley/flume-interceptor-analytics)
  * [.Net FlumeNG Clients](https://github.com/marksl/DotNetFlumeNG.Clients)
@@ -271,14 +271,14 @@ Various resources, such as books, websites and articles.
 * [Apache Hadoop YARN - NodeManager](http://hortonworks.com/blog/apache-hadoop-yarn-nodemanager/)
 * [Migrating to MapReduce 2 on YARN (For Users)](http://blog.cloudera.com/blog/2013/11/migrating-to-mapreduce-2-on-yarn-for-users/)
 * [Migrating to MapReduce 2 on YARN (For Operators)](http://blog.cloudera.com/blog/2013/11/migrating-to-mapreduce-2-on-yarn-for-operators/)
-* [Hadoop and Big Data: Use Cases at Salesforce.com](http://blogs.developerforce.com/engineering/2013/03/hadoop-use-cases-at-salesforce-com.html)
+* [Hadoop and Big Data: Use Cases at Salesforce.com](https://developer.salesforce.com/blogs/engineering/2013/03/hadoop-use-cases-at-salesforce-com.html)
 * [All you wanted to know about Hadoop, but were too afraid to ask: genealogy of elephants.](https://blogs.apache.org/bigtop/entry/all_you_wanted_to_know)
 * [What is Bigtop, and Why Should You Care?](https://blogs.apache.org/bigtop/entry/bigtop_and_why_should_you)
 * [Hadoop - Distributions and Commercial Support](http://wiki.apache.org/hadoop/Distributions%20and%20Commercial%20Support)
 * [Ganglia configuration for a small Hadoop cluster and some troubleshooting](http://hakunamapdata.com/ganglia-configuration-for-a-small-hadoop-cluster-and-some-troubleshooting/)
 * [Hadoop illuminated](http://hadoopilluminated.com/) - Open Source Hadoop Book
 * [NoSQL Database](http://nosql-database.org/)
-* [10 Best Practices for Apache Hive](http://www.qubole.com/hive-best-practices/)
+* [10 Best Practices for Apache Hive](https://www.qubole.com/blog/big-data/hive-best-practices/)
 * [Hadoop Operations at Scale](http://hortonworks.com/blog/apache-hadoop-operations-scale/)
 * [AWS BigData Blog](http://blogs.aws.amazon.com/bigdata/)
 * [Hadoop360](http://www.hadoop360.com/)
