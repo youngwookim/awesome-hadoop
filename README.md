@@ -233,7 +233,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * https://github.com/recruitcojp/WebHive
      * [shib](https://github.com/tagomoris/shib) - WebUI for query engines: Hive and Presto
      * [clive](https://github.com/bmuller/clive) - Clojure library for interacting with Hive via Thrift
-     * http://www.phphiveadmin.net/
      * https://github.com/anjuke/hwi
      * https://code.google.com/a/apache-extras.org/p/hipy/
      * https://github.com/dmorel/Thrift-API-HiveClient2 (Perl - HiveServer2)
