@@ -25,6 +25,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [Websites](#websites)
 	- [Presentations](#presentations)
 	- [Books](#books)
+	- [Hadoop & Big Data Events](#hadoop & big data events)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Hadoop
