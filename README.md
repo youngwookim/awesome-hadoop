@@ -303,5 +303,10 @@ Various resources, such as books, websites and articles.
 * [Hadoop in Practice, Second Edition](http://www.manning.com/holmes2/)
 * [Hadoop in Action, Second Edition](http://www.manning.com/lam2/)
 
+## Hadoop & Big Data Events
+* [ApacheCon](http://www.apachecon.com/)
+* [Strata + Hadoop World](http://conferences.oreilly.com/strata)
+* [Hadoop Summit](http://hadoopsummit.org/)
+
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
