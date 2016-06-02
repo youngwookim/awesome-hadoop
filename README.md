@@ -77,6 +77,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Presto](https://prestodb.io/) - Distributed SQL Query Engine for Big Data. Open sourced by Facebook.
 * [Apache Tajo](http://tajo.apache.org/) - Data warehouse system for Apache Hadoop
 * [Apache Drill](https://drill.apache.org/) - Schema-free SQL Query Engine
+* [Apache Trafodion](http://trafodion.apache.org/)
 
 ## Data Management
 
