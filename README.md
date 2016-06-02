@@ -71,7 +71,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache Hive](http://hive.apache.org) - The Apache Hive data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL
 * [Apache Phoenix](http://phoenix.apache.org) A SQL skin over HBase supporting secondary indices
-* [Pivotal HAWQ](http://pivotal.io/big-data/pivotal-hdb) - Parallel Postgres on Hadoop
+* [Apache HAWQ (incubating)](http://hawq.incubator.apache.org/) - Apache HAWQ is a Hadoop native SQL query engine that combines the key technological advantages of MPP database with the scalability and convenience of Hadoop
 * [Lingual](http://www.cascading.org/projects/lingual/) - SQL interface for Cascading (MR/Tez job generator)
 * [Cloudera Impala](http://impala.io/)
 * [Presto](https://prestodb.io/) - Distributed SQL Query Engine for Big Data. Open sourced by Facebook.
