@@ -69,7 +69,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## SQL on Hadoop
 *SQL on Hadoop*
 
-* [Apache Hive](http://hive.apache.org)
+* [Apache Hive](http://hive.apache.org) - The Apache Hive data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL
 * [Apache Phoenix](http://phoenix.apache.org) A SQL skin over HBase supporting secondary indices
 * [Pivotal HAWQ](http://pivotal.io/big-data/pivotal-hdb) - Parallel Postgres on Hadoop
 * [Lingual](http://www.cascading.org/projects/lingual/) - SQL interface for Cascading (MR/Tez job generator)
