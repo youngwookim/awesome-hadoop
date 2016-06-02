@@ -7,25 +7,25 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 	- [YARN](#yarn)
 	- [NoSQL](#nosql)
 	- [SQL on Hadoop](#sql-on-hadoop)
-	- [Data Management](#data_management)
-	- [Workflow, Lifecycle and Governance](#workflow_lifecycle_and_Governance)
+	- [Data Management](#data-management)
+	- [Workflow, Lifecycle and Governance](#workflow-lifecycle-and-governance)
 	- [Data Ingestion and Integration](#data-ingestion-and-integration)
 	- [DSL](#dsl)
 	- [Libraries and Tools](#libraries-and-tools)
 	- [Realtime Data Processing](#realtime-data-processing)
-	- [Distributed Computing and Programming](#distributed_computing_and_programming)
+	- [Distributed Computing and Programming](#distributed-computing-and-programming)
 	- [Packaging, Provisioning and Monitoring](#packaging-provisioning-and-monitoring)
 	- [Monitoring](#monitoring)
 	- [Search](#search)
 	- [Security](#security)
 	- [Benchmark](#benchmark)
-	- [Machine learning and Big Data analytics](#machine_learning_and_big_data_analytics)
+	- [Machine learning and Big Data analytics](#machine-learning-and-big-data-analytics)
 	- [Misc.](#misc)
 - [Resources](#resources)
 	- [Websites](#websites)
 	- [Presentations](#presentations)
 	- [Books](#books)
-	- [Hadoop & Big Data Events](#hadoop & big data events)
+	- [Hadoop and Big Data Events](#hadoop-and-big-data-events)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Hadoop
@@ -76,7 +76,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Cloudera Impala](http://impala.io/)
 * [Presto](https://prestodb.io/) - Distributed SQL Query Engine for Big Data. Open sourced by Facebook.
 * [Apache Tajo](http://tajo.apache.org/) - Data warehouse system for Apache Hadoop
-* [Apache Drill](http://incubator.apache.org/)
+* [Apache Drill](https://drill.apache.org/) - Schema-free SQL Query Engine
 
 ## Data Management
 
@@ -304,7 +304,7 @@ Various resources, such as books, websites and articles.
 * [Hadoop in Practice, Second Edition](http://www.manning.com/holmes2/)
 * [Hadoop in Action, Second Edition](http://www.manning.com/lam2/)
 
-## Hadoop & Big Data Events
+## Hadoop and Big Data Events
 * [ApacheCon](http://www.apachecon.com/)
 * [Strata + Hadoop World](http://conferences.oreilly.com/strata)
 * [Hadoop Summit](http://hadoopsummit.org/)
