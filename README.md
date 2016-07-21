@@ -285,6 +285,7 @@ Various resources, such as books, websites and articles.
 * [Hadoop Operations at Scale](http://hortonworks.com/blog/apache-hadoop-operations-scale/)
 * [AWS BigData Blog](http://blogs.aws.amazon.com/bigdata/)
 * [Hadoop360](http://www.hadoop360.com/)
+* [How to monitor Hadoop metrics](https://www.datadoghq.com/blog/monitor-hadoop-metrics/)
 
 ## Presentations
 
