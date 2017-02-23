@@ -229,7 +229,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * https://github.com/mochi/hive-json-serde
      * https://github.com/ogrodnek/csv-serde
      * https://github.com/parag/HiveJsonSerde
-     * https://github.com/johanoskarsson/hive-json-serde
      * https://github.com/electrum/hive-serde - JSON
      * https://github.com/karthkk/hive-hbase-json
  * Libraries and tools
