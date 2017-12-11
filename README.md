@@ -35,13 +35,11 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. 
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
 * [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
-* [dumbo](https://github.com/klbostee/dumbo) - Python module that allows you to easily write and run Hadoop programs.
 * [hadoopy](https://github.com/bwhite/hadoopy) - Python MapReduce library written in Cython. 
 * [mrjob](https://github.com/Yelp/mrjob/) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
 * [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop.
 * [hdfs-du](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system. 
 * [White Elephant](https://github.com/linkedin/white-elephant) - Hadoop log aggregator and dashboard
-* [Kiji Project](http://www.kiji.org/)
 * [Genie](https://github.com/Netflix/genie) - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
 * [Apache Kylin](http://kylin.incubator.apache.org/) - Apache Kylin is an open source Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets
 * [Crunch](https://github.com/jondot/crunch) - Go-based toolkit for ETL and feature extraction on Hadoop
@@ -218,8 +216,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * https://github.com/dvasilen/Hive-Cassandra
      * https://github.com/yc-huang/Hive-mongo
      * https://github.com/balshor/gdata-storagehandler
-     * https://github.com/karthkk/hive-hbase-json
-     * https://github.com/sunsuk7tp/hive-hbase-integration
      * https://bitbucket.org/rodrigopr/redisstoragehandler
      * https://github.com/zhuguangbin/HiveJDBCStorageHanlder
      * https://github.com/chimpler/hive-solr
@@ -229,8 +225,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * https://github.com/mochi/hive-json-serde
      * https://github.com/ogrodnek/csv-serde
      * https://github.com/parag/HiveJsonSerde
-     * https://github.com/electrum/hive-serde - JSON
-     * https://github.com/karthkk/hive-hbase-json
  * Libraries and tools
      * https://github.com/forward3d/rbhive
      * https://github.com/synctree/activerecord-hive-adapter
@@ -239,8 +233,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * https://github.com/recruitcojp/WebHive
      * [shib](https://github.com/tagomoris/shib) - WebUI for query engines: Hive and Presto
      * [clive](https://github.com/bmuller/clive) - Clojure library for interacting with Hive via Thrift
-     * https://github.com/anjuke/hwi
-     * https://code.google.com/a/apache-extras.org/p/hipy/
      * https://github.com/dmorel/Thrift-API-HiveClient2 (Perl - HiveServer2)
      * [PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto
      * https://github.com/recruitcojp/OdbcHive
