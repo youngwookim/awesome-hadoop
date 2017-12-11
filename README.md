@@ -145,6 +145,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Cascading](http://www.cascading.org/) - Cascading is the proven application development platform for building data applications on Hadoop.
 * [Apache Flink](http://flink.apache.org/) - Apache Flink is a platform for efficient, distributed, general-purpose data processing.
 * [Apache Apex (incubating)](http://apex.incubator.apache.org/) - Enterprise-grade unified stream and batch processing engine.
+* [Apache Livy (incubating)](https://livy.incubator.apache.org/) - Apache Livy (incubating) is web service that exposes a REST interface for managing long running Apache Spark contexts in your cluster. With Livy, new applications can be built on top of Apache Spark that require fine grained interaction with many Spark contexts.
+
 ## Packaging, Provisioning and Monitoring
 
 * [Apache Bigtop](http://bigtop.apache.org/) - Apache Bigtop: Packaging and tests of the Apache Hadoop ecosystem 
