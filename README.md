@@ -163,7 +163,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Search
 
 * [ElasticSearch](https://www.elastic.co/)
-* [Apache Solr](http://lucene.apache.org/solr/)
+* [Apache Solr](http://lucene.apache.org/solr/) - Apache Solr is an open source search platform built upon a Java library called Lucene.
 * [SenseiDB](http://www.senseidb.com/) - Open-source, distributed, realtime, semi-structured database
 * [Banana](https://github.com/LucidWorks/banana) - Kibana port for Apache Solr
 
