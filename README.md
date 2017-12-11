@@ -197,6 +197,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [RHive](https://github.com/nexr/RHive) RHive, for launching Hive queries from R
 * [Apache Lens](http://lens.apache.org/)
 * [Apache SINGA (incubating)](https://singa.incubator.apache.org/) - SINGA is a general distributed deep learning platform for training big deep learning models over large datasets
+* [BigDL](https://bigdl-project.github.io/) - BigDL is a distributed deep learning library for Apache Spark; with BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
 
 ## Misc.
 
