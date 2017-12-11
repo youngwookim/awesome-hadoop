@@ -306,7 +306,7 @@ Various resources, such as books, websites and articles.
 ## Hadoop and Big Data Events
 * [ApacheCon](http://www.apachecon.com/)
 * [Strata + Hadoop World](http://conferences.oreilly.com/strata)
-* [Hadoop Summit](http://hadoopsummit.org/)
+* [DataWorks Summit](https://dataworkssummit.com/)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and [awesome](https://github.com/sindresorhus/awesome) list.
