@@ -308,6 +308,7 @@ Various resources, such as books, websites and articles.
 * [ApacheCon](http://www.apachecon.com/)
 * [Strata + Hadoop World](http://conferences.oreilly.com/strata)
 * [DataWorks Summit](https://dataworkssummit.com/)
+* [Spark Summit](https://databricks.com/sparkaisummit)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and [awesome](https://github.com/sindresorhus/awesome) list.
