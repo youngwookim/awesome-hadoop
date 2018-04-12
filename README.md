@@ -248,15 +248,15 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * [Beetest](https://github.com/kawaa/Beetest) - A super simple utility for testing Apache Hive scripts locally for non-Java developers.
      * [Hive_test](https://github.com/edwardcapriolo/hive_test)- Unit test framework for hive and hive-service
 * Flume Plugins
- * [Flume MongoDB Sink](https://github.com/leonlee/flume-ng-mongodb-sink)
- * [Flume HornetQ Channel](https://github.com/btoddb/flume-ng-hornetq-channel)
- * [Flume MessagePack Source](https://github.com/leonlee/flume-ng-msgpack-source)
- * [Flume RabbitMQ source and sink](https://github.com/jcustenborder/flume-ng-rabbitmq)
- * [Flume UDP Source](https://github.com/whitepages/flume-udp-source)
- * [Stratio Ingestion](https://github.com/Stratio/Ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
- * [Flume Custom Serializers](https://github.com/relistan/flume-serializers)
- * [Real-time analytics in Apache Flume](https://github.com/jrkinley/flume-interceptor-analytics)
- * [.Net FlumeNG Clients](https://github.com/marksl/DotNetFlumeNG.Clients)
+  * [Flume MongoDB Sink](https://github.com/leonlee/flume-ng-mongodb-sink)
+  * [Flume HornetQ Channel](https://github.com/btoddb/flume-ng-hornetq-channel)
+  * [Flume MessagePack Source](https://github.com/leonlee/flume-ng-msgpack-source)
+  * [Flume RabbitMQ source and sink](https://github.com/jcustenborder/flume-ng-rabbitmq)
+  * [Flume UDP Source](https://github.com/whitepages/flume-udp-source)
+  * [Stratio Ingestion](https://github.com/Stratio/Ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
+  * [Flume Custom Serializers](https://github.com/relistan/flume-serializers)
+  * [Real-time analytics in Apache Flume](https://github.com/jrkinley/flume-interceptor-analytics)
+  * [.Net FlumeNG Clients](https://github.com/marksl/DotNetFlumeNG.Clients)
 
 # Resources
 Various resources, such as books, websites and articles.
