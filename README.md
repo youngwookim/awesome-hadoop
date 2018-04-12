@@ -82,6 +82,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Calcite](http://calcite.apache.org/) - A Dynamic Data Management Framework
 * [Apache Atlas](http://atlas.incubator.apache.org/) - Metadata tagging & lineage capture suppoting complex business data taxonomies
 * [Apache Kudu](https://kudu.apache.org/) - Kudu provides a combination of fast inserts/updates and efficient columnar scans to enable multiple real-time analytic workloads across a single storage layer, complementing HDFS and Apache HBase.
+* [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry) - Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas.
+* [Hortonworks Schema Registry](https://github.com/hortonworks/registry) - Schema Registry is a framework to build metadata repositories.
 
 ## Workflow, Lifecycle and Governance
 
@@ -128,6 +130,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [snakebite](https://pypi.python.org/pypi/snakebite/) - A pure python HDFS client
 * [Apache Parquet](https://parquet.apache.org/) - Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 * [Apache Superset (incubating)](https://superset.incubator.apache.org/) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+* [Schema Registry UI](https://github.com/Landoop/schema-registry-ui) - Web tool for the Confluent Schema Registry in order to create / view / search / evolve / view history & configure Avro schemas of your Kafka cluster.
 
 ## Realtime Data Processing
 
