@@ -119,14 +119,12 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [gohadoop](https://github.com/hortonworks/gohadoop) - Native go clients for Apache Hadoop YARN.
 * [Hue](http://gethue.com/) - A Web interface for analyzing data with Apache Hadoop.
 * [Apache Zeppelin](https://zeppelin.incubator.apache.org/) - A web-based notebook that enables interactive data analytics
-* [Jumbune](https://github.com/impetus-opensource/jumbune) - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs.
 * [Apache Thrift](http://thrift.apache.org/)
 * [Apache Avro](http://avro.apache.org/) - Apache Avro is a data serialization system.
 * [Elephant Bird](https://github.com/twitter/elephant-bird) - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
 * [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/)
 * [hdfs - A native go client for HDFS](https://github.com/colinmarc/hdfs)
 * [Oozie Eclipse Plugin](https://marketplace.eclipse.org/content/oozie-eclipse-plugin) - A graphical editor for editing Apache Oozie workflows inside Eclipse.
-* [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services.
 * [snakebite](https://pypi.python.org/pypi/snakebite/) - A pure python HDFS client
 * [Apache Parquet](https://parquet.apache.org/) - Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
 * [Apache Superset (incubating)](https://superset.incubator.apache.org/) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
@@ -160,16 +158,12 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [ankush](https://github.com/impetus-opensource/ankush) - A big data cluster management tool that creates and manages clusters of different technologies.
 * [Apache Zookeeper](http://zookeeper.apache.org/) - Apache Zookeeper
 * [Apache Curator](http://curator.apache.org/) - ZooKeeper client wrapper and rich ZooKeeper framework
-* [Buildoop](https://github.com/keedio/buildoop) - Hadoop Ecosystem Builder
-* [Deploop](http://deploop.github.io/) - The Hadoop Deploy System
-* [Jumbune](http://www.jumbune.org/) - An open source MapReduce profiling, MapReduce flow debugging, HDFS data quality validation and Hadoop cluster monitoring tool.
 * [inviso](https://github.com/Netflix/inviso) - Inviso is a lightweight tool that provides the ability to search for Hadoop jobs, visualize the performance, and view cluster utilization.
 
 ## Search
 
 * [ElasticSearch](https://www.elastic.co/)
 * [Apache Solr](http://lucene.apache.org/solr/) - Apache Solr is an open source search platform built upon a Java library called Lucene.
-* [SenseiDB](http://www.senseidb.com/) - Open-source, distributed, realtime, semi-structured database
 * [Banana](https://github.com/LucidWorks/banana) - Kibana port for Apache Solr
 
 ## Search Engine Framework
@@ -188,8 +182,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/)
 * [HiBench](https://github.com/intel-hadoop/HiBench)
 * [Big-Bench](https://github.com/intel-hadoop/Big-Data-Benchmark-for-Big-Bench)
-* [hive-benchmarks](https://github.com/yhuai/hive-benchmarks)
-* [hive-testbench](https://github.com/cartershanklin/hive-testbench) - Testbench for experimenting with Apache Hive at any data scale.
 * [YCSB](https://github.com/brianfrankcooper/YCSB) - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems.
 
 ## Machine learning and Big Data analytics
@@ -199,7 +191,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [MLlib](https://spark.apache.org/mllib/) - MLlib is Apache Spark's scalable machine learning library.
 * [R](http://www.r-project.org/) - R is a free software environment for statistical computing and graphics.
 * [RHadoop](https://github.com/RevolutionAnalytics/RHadoop/wiki) including RHDFS, RHBase, RMR2, plyrmr
-* [RHive](https://github.com/nexr/RHive) RHive, for launching Hive queries from R
 * [Apache Lens](http://lens.apache.org/)
 * [Apache SINGA (incubating)](https://singa.incubator.apache.org/) - SINGA is a general distributed deep learning platform for training big deep learning models over large datasets
 * [BigDL](https://bigdl-project.github.io/) - BigDL is a distributed deep learning library for Apache Spark; with BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
@@ -208,33 +199,19 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * Hive Plugins
  * UDF
-     * http://nexr.github.io/hive-udf/
      * https://github.com/edwardcapriolo/hive_cassandra_udfs
      * https://github.com/livingsocial/HiveSwarm
      * https://github.com/ThinkBigAnalytics/Hive-Extensions-from-Think-Big-Analytics
-     * https://github.com/karthkk/udfs
      * https://github.com/twitter/elephant-bird - Twitter
      * https://github.com/lovelysystems/ls-hive
-     * https://github.com/stewi2/hive-udfs
      * https://github.com/klout/brickhouse
-     * https://github.com/markgrover/hive-translate (PostgreSQL translate())
-     * https://github.com/deanwampler/HiveUDFs
-     * https://github.com/myui/hivemall (Machine Learning UDF/UDAF/UDTF)
-     * https://github.com/edwardcapriolo/hive-geoip (GeoIP UDF)
-     * https://github.com/Netflix/Surus
  * Storage Handler
      * https://github.com/dvasilen/Hive-Cassandra
      * https://github.com/yc-huang/Hive-mongo
      * https://github.com/balshor/gdata-storagehandler
      * https://bitbucket.org/rodrigopr/redisstoragehandler
-     * https://github.com/zhuguangbin/HiveJDBCStorageHanlder
      * https://github.com/chimpler/hive-solr
      * https://github.com/bfemiano/accumulo-hive-storage-manager
- * SerDe
-     * https://github.com/rcongiu/Hive-JSON-Serde
-     * https://github.com/mochi/hive-json-serde
-     * https://github.com/ogrodnek/csv-serde
-     * https://github.com/parag/HiveJsonSerde
  * Libraries and tools
      * https://github.com/forward3d/rbhive
      * https://github.com/synctree/activerecord-hive-adapter
@@ -242,7 +219,6 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * https://github.com/forward/node-hive
      * https://github.com/recruitcojp/WebHive
      * [shib](https://github.com/tagomoris/shib) - WebUI for query engines: Hive and Presto
-     * [clive](https://github.com/bmuller/clive) - Clojure library for interacting with Hive via Thrift
      * https://github.com/dmorel/Thrift-API-HiveClient2 (Perl - HiveServer2)
      * [PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto
      * https://github.com/recruitcojp/OdbcHive
@@ -252,13 +228,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
      * [Hive_test](https://github.com/edwardcapriolo/hive_test)- Unit test framework for hive and hive-service
 * Flume Plugins
   * [Flume MongoDB Sink](https://github.com/leonlee/flume-ng-mongodb-sink)
-  * [Flume HornetQ Channel](https://github.com/btoddb/flume-ng-hornetq-channel)
-  * [Flume MessagePack Source](https://github.com/leonlee/flume-ng-msgpack-source)
   * [Flume RabbitMQ source and sink](https://github.com/jcustenborder/flume-ng-rabbitmq)
   * [Flume UDP Source](https://github.com/whitepages/flume-udp-source)
-  * [Stratio Ingestion](https://github.com/Stratio/Ingestion) - Custom sinks: Cassandra, MongoDB, Stratio Streaming and JDBC
-  * [Flume Custom Serializers](https://github.com/relistan/flume-serializers)
-  * [Real-time analytics in Apache Flume](https://github.com/jrkinley/flume-interceptor-analytics)
   * [.Net FlumeNG Clients](https://github.com/marksl/DotNetFlumeNG.Clients)
 
 # Resources
@@ -269,34 +240,14 @@ Various resources, such as books, websites and articles.
 
 * [Hadoop Weekly](http://www.hadoopweekly.com/)
 * [The Hadoop Ecosystem Table](http://hadoopecosystemtable.github.io/)
-* [Hadoop 1.x vs 2](http://www.slideshare.net/RommelGarcia2/hadoop-1x-vs-2)
 * [Apache Hadoop YARN: Yet Another Resource Negotiator](http://www.socc2013.org/home/program/a5-vavilapalli.pdf)
-* [Introducing Apache Hadoop YARN](http://hortonworks.com/blog/introducing-apache-hadoop-yarn/)
-* [Programming Community Curated Resources for Learning Hadoop](https://hackr.io/tutorials/learn-hadoop-big-data)
-* [Apache Hadoop YARN - Background and an Overview](http://hortonworks.com/blog/apache-hadoop-yarn-background-and-an-overview/)
-* [Apache Hadoop YARN - Concepts and Applications](http://hortonworks.com/blog/apache-hadoop-yarn-concepts-and-applications/)
-* [Apache Hadoop YARN - ResourceManager](http://hortonworks.com/blog/apache-hadoop-yarn-resourcemanager/)
-* [Apache Hadoop YARN - NodeManager](http://hortonworks.com/blog/apache-hadoop-yarn-nodemanager/)
-* [Migrating to MapReduce 2 on YARN (For Users)](http://blog.cloudera.com/blog/2013/11/migrating-to-mapreduce-2-on-yarn-for-users/)
-* [Migrating to MapReduce 2 on YARN (For Operators)](http://blog.cloudera.com/blog/2013/11/migrating-to-mapreduce-2-on-yarn-for-operators/)
-* [Hadoop and Big Data: Use Cases at Salesforce.com](https://developer.salesforce.com/blogs/engineering/2013/03/hadoop-use-cases-at-salesforce-com.html)
-* [All you wanted to know about Hadoop, but were too afraid to ask: genealogy of elephants.](https://blogs.apache.org/bigtop/entry/all_you_wanted_to_know)
-* [What is Bigtop, and Why Should You Care?](https://blogs.apache.org/bigtop/entry/bigtop_and_why_should_you)
-* [Hadoop - Distributions and Commercial Support](http://wiki.apache.org/hadoop/Distributions%20and%20Commercial%20Support)
-* [Ganglia configuration for a small Hadoop cluster and some troubleshooting](http://hakunamapdata.com/ganglia-configuration-for-a-small-hadoop-cluster-and-some-troubleshooting/)
 * [Hadoop illuminated](http://hadoopilluminated.com/) - Open Source Hadoop Book
-* [NoSQL Database](http://nosql-database.org/)
-* [10 Best Practices for Apache Hive](https://www.qubole.com/blog/big-data/hive-best-practices/)
-* [Hadoop Operations at Scale](http://hortonworks.com/blog/apache-hadoop-operations-scale/)
 * [AWS BigData Blog](http://blogs.aws.amazon.com/bigdata/)
 * [Hadoop360](http://www.hadoop360.com/)
 * [How to monitor Hadoop metrics](https://www.datadoghq.com/blog/monitor-hadoop-metrics/)
 
 ## Presentations
 
-* [Hadoop Summit Presentations](http://www.slideshare.net/Hadoop_Summit) - Slide decks from Hadoop Summit
-* [Hadoop 24/7](http://www.slideshare.net/allenwittenauer/aw-apachecon2009-15342917)
-* [An example Apache Hadoop Yarn upgrade](http://www.slideshare.net/mikejf12/an-example-apache-hadoop-yarn-upgrade)
 * [Apache Hadoop In Theory And Practice](http://www.slideshare.net/AdamKawa/hadoop-intheoryandpractice)
 * [Hadoop Operations at LinkedIn](http://www.slideshare.net/allenwittenauer/2013-hadoopsummitemea)
 * [Hadoop Performance at LinkedIn](http://www.slideshare.net/allenwittenauer/2012-lihadoopperf)
