@@ -31,6 +31,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Hadoop
 
 * [Apache Hadoop](http://hadoop.apache.org/) - Apache Hadoop
+* [Apache Hadoop Ozone](http://hadoop.apache.org/ozone/) - An Object Store for Apache Hadoop
 * [Apache Tez](http://tez.apache.org/) - A Framework for YARN-based, Data Processing Applications In Hadoop
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. 
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
