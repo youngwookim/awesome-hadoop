@@ -139,7 +139,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Apache Spark](http://spark.apache.org/streaming/)
 * [Apache Flink](https://flink.apache.org/features.html#unified-stream-amp-batch-processing) - Apache Flink is a platform for efficient, distributed, general-purpose data processing. It supports exactly once stream processing.
 * [Apache Pulsar (incubating)](http://pulsar.incubator.apache.org/) - Apache Pulsar (incubating) is a highly scalable, low latency messaging platform running on commodity hardware. It provides simple pub-sub semantics over topics, guaranteed at-least-once delivery of messages, automatic cursor management for subscribers, and cross-datacenter replication.
-* [Druid](http://druid.io/) - Column oriented distributed data store ideal for powering interactive applications
+* [Apache Druid (incubating)](http://druid.incubator.apache.org/) - A high-performance, column-oriented, distributed data store.
 
 ## Distributed Computing and Programming
 
